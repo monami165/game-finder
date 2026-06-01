@@ -1,0 +1,2523 @@
+{
+  "scraped_at": "2026-05-31T20:57:08.793299",
+  "game_id": "GG-320",
+  "game_title": "Phoenix Link",
+  "locations": [
+    {
+      "name": "1ST JACKPOT CASINO TUNICA",
+      "address": "1450 JACKPOT BLVD, ROBINSONVILLE, MS, 38664"
+    },
+    {
+      "name": "7 CLANS CASINOS CHILOCCO",
+      "address": "7500 HIGHWAY 177, RED ROCK, OK, 74651-0386"
+    },
+    {
+      "name": "7 CLANS FIRST COUNCIL",
+      "address": "12875 N HIGHWAY 77, NEWKIRK, OK, 74647-7514"
+    },
+    {
+      "name": "7 CLANS PARADISE CASINO",
+      "address": "7500 HIGHWAY 177, RED ROCK, OK, 74651-0386"
+    },
+    {
+      "name": "7 CLANS PERRY CASINO",
+      "address": "511 KAW ST, PERRY, OK, 73077-3433"
+    },
+    {
+      "name": "ACE BLACKFOOT CASINO",
+      "address": "1010 42 AVE SE CALGARY, CALGARY, AB, T2G 1Z4"
+    },
+    {
+      "name": "ACE CASINO CALGARY AIRPORT",
+      "address": "40 Aero Crescent Northeast, CALGARY, AB, T2E 6W5"
+    },
+    {
+      "name": "ACE CASINO RED DEER",
+      "address": "6350 67 ST, RED DEER, AB, T4P 3L7"
+    },
+    {
+      "name": "AG TRUCANO SON & GRANDSONS",
+      "address": "155 SHERMAN ST, DEADWOOD, SD, 57732-1563"
+    },
+    {
+      "name": "AGUA CALIENTE CASINO CATHEDRAL CITY",
+      "address": "5005 E SUNNY DUNES RD, PALM SPRINGS, CA, 92264-3601"
+    },
+    {
+      "name": "AGUA CALIENTE CASINO PALM SPRINGS",
+      "address": "401 E AMADO RD, PALM SPRINGS, CA, 92262-6403"
+    },
+    {
+      "name": "AGUA CALIENTE CASINO RANCHO MIRAGE",
+      "address": "32250 BOB HOPE DR, RANCHO MIRAGE, CA, 92270-2704"
+    },
+    {
+      "name": "ALIANTE CASINO + HOTEL + SPA",
+      "address": "7300 ALIANTE PKWY, NORTH LAS VEGAS, NV, 89084-2502"
+    },
+    {
+      "name": "AMERICAN PLACE",
+      "address": "1545 S WAUKEGAN RD, WAUKEGAN, IL, 60085-6727"
+    },
+    {
+      "name": "AMERISTAR CASINO HOTEL COUNCIL BLUFFS",
+      "address": "2200 RIVER RD, COUNCIL BLUFFS, IA, 51501-7070"
+    },
+    {
+      "name": "AMERISTAR CASINO HOTEL EAST CHICAGO",
+      "address": "777 AMERISTAR BLVD, EAST CHICAGO, IN, 46312-1806"
+    },
+    {
+      "name": "AMERISTAR CASINO HOTEL KANSAS CITY",
+      "address": "3200 AMERISTAR DR, KANSAS CITY, MO, 64161-9223"
+    },
+    {
+      "name": "AMERISTAR CASINO RESORT SPA BLACK HAWK",
+      "address": "111 RICHMAN STREET, BLACK HAWK, CO, 80422"
+    },
+    {
+      "name": "AMERISTAR CASINO ST CHARLES",
+      "address": "1 AMERISTAR BLVD, SAINT CHARLES, MO, 63301-3500"
+    },
+    {
+      "name": "AMERISTAR CASINO VICKSBURG",
+      "address": "4116 WASHINGTON ST, VICKSBURG, MS, 39180-5288"
+    },
+    {
+      "name": "APACHE CASINO HOTEL",
+      "address": "2315 E GORE BLVD, LAWTON, OK, 73501-6116"
+    },
+    {
+      "name": "APACHE GOLD CASINO RESORT",
+      "address": "HIGHWAY 70, SAN CARLOS, AZ, 85550-1210"
+    },
+    {
+      "name": "APACHE LONESTAR CASINO",
+      "address": "250387 E 2000, DEVOL, OK, 73531"
+    },
+    {
+      "name": "AQUARIUS CASINO RESORT",
+      "address": "1900 S CASINO DR, LAUGHLIN, NV, 89029-1513"
+    },
+    {
+      "name": "ARGOSY CASINO ALTON",
+      "address": "1 PIASA ST, ALTON, IL, 62002-6276"
+    },
+    {
+      "name": "ARIA RESORT AND CASINO",
+      "address": "3730 LAS VEGAS BLVD S, LAS VEGAS, NV, 89158-4300"
+    },
+    {
+      "name": "ARIZONA CHARLIES BOULDER CASINO, HOTEL & RV PARK",
+      "address": "4575 BOULDER HWY, LAS VEGAS, NV, 89121-3011"
+    },
+    {
+      "name": "ARIZONA CHARLIES DECATUR CASINO & HOTEL",
+      "address": "740 S DECATUR BLVD, LAS VEGAS, NV, 89107-3907"
+    },
+    {
+      "name": "ATLANTIS CASINO RESORT SPA-RENO",
+      "address": "3800 S VIRGINIA ST, RENO, NV, 89502-6005"
+    },
+    {
+      "name": "AUGUSTINE CASINO",
+      "address": "84001 AVENUE 54, COACHELLA, CA, 92236-9780"
+    },
+    {
+      "name": "BALLYS ATLANTIC CITY",
+      "address": "1900 PACIFIC AVE, ATLANTIC CITY, NJ, 08401-6714"
+    },
+    {
+      "name": "BALLYS BLACK HAWK NORTH CASINO",
+      "address": "300 MAIN ST, BLACK HAWK, CO, 80422-5028"
+    },
+    {
+      "name": "BALLYS DOVER CASINO RESORT",
+      "address": "1131 N. DUPONT HIGHWAY, DOVER DOWNS, DE, 19904"
+    },
+    {
+      "name": "BALLYS KANSAS CITY, LLC",
+      "address": "1800 E FRONT ST, KANSAS CITY, MO, 64120-1406"
+    },
+    {
+      "name": "BALLYS LAKE TAHOE CASINO RESORT",
+      "address": "55 HIGHWAY 50, STATELINE, NV, 89449-9818"
+    },
+    {
+      "name": "BALLYS QUAD CITIES CASINO & HOTEL",
+      "address": "777 BALLY BLVD, ROCK ISLAND, IL, 61201-7606"
+    },
+    {
+      "name": "BALLYS SHREVEPORT CASINO & HOTEL",
+      "address": "451 CLYDE FANT PKWY, SHREVEPORT, LA, 71101-3206"
+    },
+    {
+      "name": "BALLYS TIVERTON CASINO HOTEL",
+      "address": "777 TIVERTON CASINO BLVD, TIVERTON, RI, 02878-2497"
+    },
+    {
+      "name": "BARLEYS CASINO & BREWING COMPANY",
+      "address": "4500 E SUNSET RD STE 30, HENDERSON, NV, 89014-2253"
+    },
+    {
+      "name": "BARONA RESORT & CASINO",
+      "address": "1932 WILDCAT CANYON RD, LAKESIDE, CA, 92040-1553"
+    },
+    {
+      "name": "BARTONS CLUB 93",
+      "address": "1002 HWY. 93 NORTH, JACKPOT, NV, 89825-0523"
+    },
+    {
+      "name": "BAY MILLS RESORT AND CASINO",
+      "address": "12061 W LAKESHORE DR, BRIMLEY, MI, 49715-9318"
+    },
+    {
+      "name": "BEAR RIVER CASINO",
+      "address": "11 BEAR PAWS WAY, LOLETA, CA, 95551-9684"
+    },
+    {
+      "name": "BEAU RIVAGE RESORT & CASINO",
+      "address": "875 BEACH BLVD, BILOXI, MS, 39530-4241"
+    },
+    {
+      "name": "BELLAGIO LAS VEGAS",
+      "address": "3600 LAS VEGAS BLVD S, LAS VEGAS, NV, 89109-4303"
+    },
+    {
+      "name": "BELLE OF BATON ROUGE CASINO",
+      "address": "103 FRANCE ST, BATON ROUGE, LA, 70802-6208"
+    },
+    {
+      "name": "BELTERRA PARK GAMING ENT CNTR",
+      "address": "6301 KELLOGG RD, CINCINNATI, OH, 45230-5237"
+    },
+    {
+      "name": "BELTERRA RESORT INDIANA LLC",
+      "address": "777 BELTERRA DR, FLORENCE, IN, 47020-9432"
+    },
+    {
+      "name": "BLACK BEAR CASINO RESORT",
+      "address": "1785 HIGHWAY 210, CARLTON, MN, 55718-8161"
+    },
+    {
+      "name": "BLACK MESA CASINO",
+      "address": "25 HAGAN RD, ALGODONES, NM, 87001-5048"
+    },
+    {
+      "name": "BLACK OAK CASINO",
+      "address": "19400 TUOLUMNE RD N, TUOLUMNE, CA, 95379-9696"
+    },
+    {
+      "name": "BLACKBIRD BEND CASINO",
+      "address": "17214 210TH ST, ONAWA, IA, 51040-7600"
+    },
+    {
+      "name": "BLUE CHIP CASINO",
+      "address": "777 BLUE CHIP DR, MICHIGAN CITY, IN, 46360-2422"
+    },
+    {
+      "name": "BLUEWATER RESORT AND CASINO",
+      "address": "11300 RESORT DR, PARKER, AZ, 85344-7549"
+    },
+    {
+      "name": "BONANZA CASINO",
+      "address": "4720 N VIRGINIA ST, RENO, NV, 89506-9031"
+    },
+    {
+      "name": "BONANZA LOUNGE",
+      "address": "4301 E BONANZA RD, LAS VEGAS, NV, 89110-2201"
+    },
+    {
+      "name": "BOOMTOWN - BOSSIER CITY",
+      "address": "300 RIVERSIDE DR, BOSSIER CITY, LA, 71111-5017"
+    },
+    {
+      "name": "BOOMTOWN CASINO BILOXI",
+      "address": "676 BAYVIEW AVE, BILOXI, MS, 39530-2307"
+    },
+    {
+      "name": "BOOMTOWN HOTEL  CASINO- RENO",
+      "address": "2100 GARSON RD, VERDI, NV, 89439-8007"
+    },
+    {
+      "name": "BOOMTOWN NEW ORLEANS",
+      "address": "4132 PETERS RD, HARVEY, LA, 70058-1805"
+    },
+    {
+      "name": "BOOT HILL CASINO AND RESORT",
+      "address": "4000 W COMANCHE ST, DODGE CITY, KS, 67801-8106"
+    },
+    {
+      "name": "BORGATA HOTEL CASINO & SPA",
+      "address": "1 BORGATA WAY, ATLANTIC CITY, NJ, 08401-1946"
+    },
+    {
+      "name": "BOULDER STATION HOTEL & CASINO",
+      "address": "4111 BOULDER HWY, LAS VEGAS, NV, 89121-2510"
+    },
+    {
+      "name": "BRASS ASS CASINO",
+      "address": "264 BENNETT DR, CRIPPLE CREEK, CO, 80813-9609"
+    },
+    {
+      "name": "BRIGHTON BAY HOTEL AND CASINO",
+      "address": "15005 RESERVATION RD NE, OKEECHOBEE, FL, 34974-2899"
+    },
+    {
+      "name": "BRILLIANT LADY",
+      "address": "1000 S PINE ISLAND RD SUITE 600, PLANTATION, FL, 33324-3906"
+    },
+    {
+      "name": "BRONCO BILLYS CASINO",
+      "address": "233 BENNETT DR, CRIPPLE CREEK, CO, 80813-9609"
+    },
+    {
+      "name": "BUFFALO RUN CASINO & RESORT",
+      "address": "1000 BUFFALO RUN BOULEVARD, MIAMI, OK, 74354"
+    },
+    {
+      "name": "BUFFALO THUNDER CASINO",
+      "address": "30 BUFFALO THUNDER TRL, SANTA FE, NM, 87506-2790"
+    },
+    {
+      "name": "CACHE CREEK CASINO RESORT",
+      "address": "14455 STATE HIGHWAY 16, BROOKS, CA, 95606-9707"
+    },
+    {
+      "name": "CADENCE CROSSING",
+      "address": "920 N BOULDER HWY, HENDERSON, NV, 89011-5320"
+    },
+    {
+      "name": "CADILLAC JACKS GAMING RESORT",
+      "address": "360 MAIN ST, DEADWOOD, SD, 57732-1236"
+    },
+    {
+      "name": "CAESARS ATLANTIC CITY",
+      "address": "2100 PACIFIC AVE, ATLANTIC CITY, NJ, 08401-6612"
+    },
+    {
+      "name": "CAESARS NEW ORLEANS",
+      "address": "8 CANAL ST, NEW ORLEANS, LA, 70130-1601"
+    },
+    {
+      "name": "CAESARS PALACE HOTEL CASINO",
+      "address": "3570 LAS VEGAS BLVD S, LAS VEGAS, NV, 89109-8924"
+    },
+    {
+      "name": "CAESARS REPUBLIC LAKE TAHOE HOTEL & CASINO",
+      "address": "18 HIGHWAY 50, STATELINE, NV, 89449-9818"
+    },
+    {
+      "name": "CAESARS SOUTHERN INDIANA",
+      "address": "11999 CASINO CENTER DR SE, ELIZABETH, IN, 47117-7753"
+    },
+    {
+      "name": "CAESARS VIRGINIA",
+      "address": "1100 W MAIN ST, DANVILLE, VA, 24541-2939"
+    },
+    {
+      "name": "CAESARS WINDSOR",
+      "address": "7-1795 MEYERSIDE DR, MISSISSAUGA, ON, L5T 1E3"
+    },
+    {
+      "name": "CAHUILLA CREEK CASINO",
+      "address": "52702 US HIGHWAY 371, ANZA, CA, 92539-8707"
+    },
+    {
+      "name": "CALDER CASINO AND RACE COURSE",
+      "address": "21001 NW 27TH AVE, MIAMI GARDENS, FL, 33056-1461"
+    },
+    {
+      "name": "CANNERY HOTEL AND CASINO",
+      "address": "2121 E CRAIG RD, NORTH LAS VEGAS, NV, 89030-3385"
+    },
+    {
+      "name": "CARSON PLAINS CASINO",
+      "address": "6996 FRONTAGE ROAD, DAYTON, NV, 89403"
+    },
+    {
+      "name": "CASABLANCA HOTEL, CASINO, GOLF & SPA",
+      "address": "950 W MESQUITE BLVD, MESQUITE, NV, 89027-5204"
+    },
+    {
+      "name": "CASCADES CASINO",
+      "address": "74 WEST SEYMOUR STREET, KAMLOOPS, BC, V2C 1E2"
+    },
+    {
+      "name": "CASINO APACHE TRAVEL CENTER",
+      "address": "25845 US HIGHWAY 70, MESCALERO, NM, 88340-9796"
+    },
+    {
+      "name": "CASINO ARIZONA",
+      "address": "524 N 92ND ST, SCOTTSDALE, AZ, 85256-5402"
+    },
+    {
+      "name": "CASINO DE CHARLEVOIX",
+      "address": "183 RICHELIEU ST, LA MALBAIE, QC, G5A 1X8"
+    },
+    {
+      "name": "CASINO DE MONTREAL",
+      "address": "1 DU CASINO AVE, MONTREAL, QC, H3C 4W7"
+    },
+    {
+      "name": "CASINO DEL SOL - TUCSON",
+      "address": "5655 W VALENCIA RD, TUCSON, AZ, 85757-9714"
+    },
+    {
+      "name": "CASINO DENE",
+      "address": "ROUTE 28 & HWY 897, COLD LAKE, AB, T9M 1P4"
+    },
+    {
+      "name": "CASINO DU LAC-LEAMY",
+      "address": "1 DU CASINO BLVD, GATINEAU, QC, J8Y 6W3"
+    },
+    {
+      "name": "CASINO EDMONTON",
+      "address": "7055 ARGYLL RD NW, EDMONTON, AB, T6C 4A5"
+    },
+    {
+      "name": "CASINO FANDANGO",
+      "address": "3800 S CARSON ST, CARSON CITY, NV, 89701-5554"
+    },
+    {
+      "name": "CASINO LETHBRIDGE",
+      "address": "3756 2 AVE S, LETHBRIDGE, AB, T1J 4Y9"
+    },
+    {
+      "name": "CASINO MIAMI",
+      "address": "3500 NW 37TH AVE, MIAMI, FL, 33142-4923"
+    },
+    {
+      "name": "CASINO MOOSE JAW",
+      "address": "21 FAIRFORD ST E, MOOSE JAW, SK, S6H 0C8"
+    },
+    {
+      "name": "CASINO NEW BRUNSWICK",
+      "address": "21 CASINO DR, MONCTON, NB, E1G 0R7"
+    },
+    {
+      "name": "CASINO NOVA SCOTIA HALIFAX",
+      "address": "1983 UPPER WATER ST, HALIFAX, NS, B3J 3Y5"
+    },
+    {
+      "name": "CASINO OKLAHOMA",
+      "address": "220 EAST CUMMINS ROAD, HINTON, OK, 73047"
+    },
+    {
+      "name": "CASINO PAUMA",
+      "address": "777 Pauma Reservation Road, Pauma Valley, CA, 92061"
+    },
+    {
+      "name": "CASINO QUEEN",
+      "address": "200 FRONT ST, EAST SAINT LOUIS, IL, 62201-1222"
+    },
+    {
+      "name": "CASINO RAMA",
+      "address": "1795 MEYERSIDE DR UNIT 7, MISSISSAUGA, ON, L5T 1E3"
+    },
+    {
+      "name": "CASINO REGINA",
+      "address": "2020 SASKATCHEWAN DRIVE, REGINA, SK, S4P 0B2"
+    },
+    {
+      "name": "CASINO WHITE CLOUD",
+      "address": "777 JACKPOT DR, WHITE CLOUD, KS, 66094-4002"
+    },
+    {
+      "name": "CATAWBA TWO KINGS CASINO RESORT",
+      "address": "260 DIXON SCHOOL RD, KINGS MOUNTAIN, NC, 28086-9299"
+    },
+    {
+      "name": "CATFISH BEND RIVERBOAT CASINO",
+      "address": "3001 WINEGARD DR, BURLINGTON, IA, 52601-2061"
+    },
+    {
+      "name": "CEDAR LAKES CASINO HOTEL",
+      "address": "16599 69TH AVE NW, CASS LAKE, MN, 56633-3017"
+    },
+    {
+      "name": "CENTURY CASINO AND HOTEL",
+      "address": "102 MAIN ST, CENTRAL CITY, CO, 80427-5069"
+    },
+    {
+      "name": "CENTURY CASINO CAPE GIRARDEAU",
+      "address": "777 N MAIN ST, CAPE GIRARDEAU, MO, 63701-7120"
+    },
+    {
+      "name": "CENTURY CASINO CRIPPLE CREEK II",
+      "address": "200 E BENNETT AVE, CRIPPLE CREEK, CO, 80813"
+    },
+    {
+      "name": "CHANCES COWICHAN",
+      "address": "74 WEST SEYMOUR STREET, KAMLOOPS, BC, V2C 1E2"
+    },
+    {
+      "name": "CHANCES KELOWNA",
+      "address": "74 WEST SEYMOUR STREET, KAMLOOPS, BC, V2C 1E2"
+    },
+    {
+      "name": "CHANCES MAPLE RIDGE",
+      "address": "22710 LOUGHEED HWY, MAPLE RIDGE, BC, V2X 2V6"
+    },
+    {
+      "name": "CHEROKEE CASINO ROLAND",
+      "address": "109 CHEROKEE BLVD, ROLAND, OK, 74954-5005"
+    },
+    {
+      "name": "CHEROKEE CASINO SALLISAW",
+      "address": "1621 W RUTH AVE, SALLISAW, OK, 74955-7242"
+    },
+    {
+      "name": "CHEROKEE CASINO TAHLEQUAH",
+      "address": "3307 S SEVEN CLANS AVE, TAHLEQUAH, OK, 74464-5535"
+    },
+    {
+      "name": "CHEROKEE CASINO WEST SILOAM SPRINGS",
+      "address": "2416 HIGHWAY 412, WEST SILOAM SPRINGS, OK, 74338-3528"
+    },
+    {
+      "name": "CHEROKEE CASINO WILL ROGERS DOWNS",
+      "address": "20900 S 4200 RD, CLAREMORE, OK, 74019-4295"
+    },
+    {
+      "name": "CHEROKEE HARD ROCK TULSA",
+      "address": "777 WEST CHEROKEE STREET, CATOOSA, OK, 74015"
+    },
+    {
+      "name": "CHICKEN RANCH CASINO RESORT",
+      "address": "9100 People of the Mountain Road, Jamestown, CA, 95327"
+    },
+    {
+      "name": "CHINOOK WINDS CASINO RESORT",
+      "address": "1777 NW 44TH ST, LINCOLN CITY, OR, 97367-5094"
+    },
+    {
+      "name": "CHOCTAW CASINO  RESORT DURANT",
+      "address": "4216 SOUTH HIGHWAY 69/75, DURANT, OK, 74701"
+    },
+    {
+      "name": "CHOCTAW CASINO GRANT",
+      "address": "1516 HIGHWAY 271, GRANT, OK, 74738-5001"
+    },
+    {
+      "name": "CHOCTAW CASINO IDABEL",
+      "address": "1425 SE WASHINGTON ST, IDABEL, OK, 74745-3447"
+    },
+    {
+      "name": "CHOCTAW CASINO POCOLA",
+      "address": "3400 Choctaw Rd, POCOLA, OK, 74902"
+    },
+    {
+      "name": "CHOCTAW LANDING",
+      "address": "3212 ENTERPRISE DR, DURANT, OK, 74701-1990"
+    },
+    {
+      "name": "CHUKCHANSI GOLD RESORT & CASINO",
+      "address": "711 LUCKY LN, COARSEGOLD, CA, 93614-8206"
+    },
+    {
+      "name": "CHUMASH CASINO RESORT",
+      "address": "3400 E HIGHWAY 246, SANTA YNEZ, CA, 93460-9405"
+    },
+    {
+      "name": "CIMARRON CASINO",
+      "address": "821 W FREEMAN AVE, PERKINS, OK, 74059-4007"
+    },
+    {
+      "name": "CIRCA RESORT  CASINO",
+      "address": "8 FREMONT ST, LAS VEGAS, NV, 89101-5678"
+    },
+    {
+      "name": "CIRCUS CIRCUS HOTEL & CASINO",
+      "address": "2880 LAS VEGAS BLVD S, LAS VEGAS, NV, 89109-1138"
+    },
+    {
+      "name": "CITIES OF GOLD CASINO",
+      "address": "10B CITIES OF GOLD RD, SANTA FE, NM, 87506-0938"
+    },
+    {
+      "name": "CLEARWATER RIVER CASINO",
+      "address": "17500 NEZ PERCE RD, LEWISTON, ID, 83501-7947"
+    },
+    {
+      "name": "CLIFF CASTLE CASINO",
+      "address": "555 W MIDDLE VERDE RD, CAMP VERDE, AZ, 86322-8561"
+    },
+    {
+      "name": "CLUB CAL-NEVA",
+      "address": "38 E 2ND ST, RENO, NV, 89501-1410"
+    },
+    {
+      "name": "CLUB FORTUNE CASINO",
+      "address": "725 S RACETRACK ROAD, HENDERSON, NV, 89015"
+    },
+    {
+      "name": "CLUB REGENT CASINO",
+      "address": "1390 PACIFIC AVE, WINNIPEG, MB, R3E 3R9"
+    },
+    {
+      "name": "COCOPAH CASINO",
+      "address": "15318 S AVENUE B, SOMERTON, AZ, 85350-7687"
+    },
+    {
+      "name": "COEUR DALENE CASINO RESORT HOTEL",
+      "address": "27068 SOUTHWEST US HIGHWAY 95, WORLEY, ID, 83876-0236"
+    },
+    {
+      "name": "COLORADO GRANDE CASINO",
+      "address": "300 BENNETT DR, CRIPPLE CREEK, CO, 80813-9569"
+    },
+    {
+      "name": "COLUSA CASINO RESORT",
+      "address": "3770 STATE HIGHWAY 45, COLUSA, CA, 95932-4021"
+    },
+    {
+      "name": "COMANCHE NATION CASINO (CACHE)",
+      "address": "16193 Oklahoma 115, Cache, OK, 73527"
+    },
+    {
+      "name": "COMANCHE NATION CASINO (LAWTON)",
+      "address": "402 SE INTERSTATE DR, LAWTON, OK, 73501-5493"
+    },
+    {
+      "name": "COMANCHE NATION TRAVEL PLAZA",
+      "address": "250510 E 2000 RD, DEVOL, OK, 73531-4245"
+    },
+    {
+      "name": "COMANCHE RED RIVER HOTEL CASINO",
+      "address": "RT 1 42K, DEVOL, OK, 73531"
+    },
+    {
+      "name": "COMANCHE SPUR CASINO",
+      "address": "9047 US HIGHWAY 62, ELGIN, OK, 73538-2922"
+    },
+    {
+      "name": "COMANCHE STAR CASINO",
+      "address": "RT. 3 BOX 82A, WALTERS, OK, 73572"
+    },
+    {
+      "name": "COUSHATTA CASINO RESORT",
+      "address": "777 COUSHATTA DRIVE, KINDER, LA, 70648"
+    },
+    {
+      "name": "COYOTE VALLEY SHODAKAI CASINO",
+      "address": "7751 N STATE ST, REDWOOD VALLEY, CA, 95470-9663"
+    },
+    {
+      "name": "CREEK NATION CASINO BRISTOW",
+      "address": "121 W LINCOLN AVE, BRISTOW, OK, 74010-3370"
+    },
+    {
+      "name": "CREEK NATION CASINO CHECOTAH",
+      "address": "830 NORTH BROADWAY STREET, CHECOTAH, OK, 74426"
+    },
+    {
+      "name": "CREEK NATION CASINO DUCK CREEK",
+      "address": "10085 FERGUSON ROAD, BEGGS, OK, 74421"
+    },
+    {
+      "name": "CREEK NATION CASINO OKEMAH",
+      "address": "1100 S WOODY GUTHRIE ST, OKEMAH, OK, 74859"
+    },
+    {
+      "name": "D210 ATI MARKETING - US",
+      "address": "11011 W CHARLESTON BLVD, LAS VEGAS, NV, 89135-1402"
+    },
+    {
+      "name": "DAKOTA CONNECTION CASINO & BINGO",
+      "address": "46102 SOUTH DAKOTA HIGHWAY 10, SISSETON, SD, 57262"
+    },
+    {
+      "name": "DAKOTA DUNES CASINO",
+      "address": "204 DAKOTA DUNES WAY, WHITECAP, SK, S7K 2L2"
+    },
+    {
+      "name": "DAKOTA MAGIC",
+      "address": "16849 102ND ST SE, HANKINSON, ND, 58041-9780"
+    },
+    {
+      "name": "DAKOTA SIOUX CASINO",
+      "address": "16415 SIOUX CONIFER RD, WATERTOWN, SD, 57201-7321"
+    },
+    {
+      "name": "DANCING EAGLE CASINO",
+      "address": "I-40, WEST MILE MARKER 108, CASA BLANCA, NM, 87007"
+    },
+    {
+      "name": "DANIA JAI ALAI",
+      "address": "301 E DANIA BEACH BLVD, DANIA BEACH, FL, 33004-3016"
+    },
+    {
+      "name": "DEERFOOT INN & CASINO",
+      "address": "1000, 11500 - 35 STREET SE, CALGARY, AB, T2Z 3W4"
+    },
+    {
+      "name": "DEL LAGO RESORT & CASINO",
+      "address": "1133 STATE ROUTE 414, WATERLOO, NY, 13165-9647"
+    },
+    {
+      "name": "DELAWARE PARK",
+      "address": "777 DELAWARE PARK BLVD, WILMINGTON, DE, 19804-4122"
+    },
+    {
+      "name": "DELTA DOWNS RACETRACK  CASINO",
+      "address": "2717 DELTA DOWNS DR, VINTON, LA, 70668-6025"
+    },
+    {
+      "name": "DESERT DIAMOND CASINO - TUCSON",
+      "address": "7350 S NOGALES HWY, TUCSON, AZ, 85756-9641"
+    },
+    {
+      "name": "DESERT DIAMOND CASINO - WEST VALLEY",
+      "address": "NORTH 91st AVE AND W NORTHERN AVE, Glendale, AZ, 85305"
+    },
+    {
+      "name": "DESERT DIAMOND CASINO - WHITE TANKS AT SAN LUCY",
+      "address": "8200 N SARIVAL AVE, WADDELL, AZ, 85355-0177"
+    },
+    {
+      "name": "DIAMOND JO CASINO WORTH",
+      "address": "777 DIAMOND JO LN, NORTHWOOD, IA, 50459-8801"
+    },
+    {
+      "name": "DOTTYS #79 - FERNLEY",
+      "address": "1440 US HIGHWAY 95A N STE 1, FERNLEY, NV, 89408-4603"
+    },
+    {
+      "name": "DOUBLE EAGLE HOTEL AND CASINO",
+      "address": "442 E BENNETT AVE, CRIPPLE CREEK, CO, 80813-9522"
+    },
+    {
+      "name": "DOWNSTREAM CASINO RESORT",
+      "address": "69300 NEE RD, QUAPAW, OK, 74363-2134"
+    },
+    {
+      "name": "DOWNTOWN GRAND HOTEL  CASINO",
+      "address": "206 N 3RD ST, LAS VEGAS, NV, 89101-2931"
+    },
+    {
+      "name": "DRAGON TIGER CASINO",
+      "address": "132 LAWRENCE ST, CENTRAL CITY, CO, 80427-5060"
+    },
+    {
+      "name": "DURANGO CASINO & RESORT",
+      "address": "6903 S DURANGO DR, LAS VEGAS, NV, 89113-2349"
+    },
+    {
+      "name": "EAGLE MOUNTAIN CASINO",
+      "address": "1850 West Street, PORTERVILLE, CA, 93257-9591"
+    },
+    {
+      "name": "EDGEWATER GAMING LLC",
+      "address": "2020 S CASINO DR, LAUGHLIN, NV, 89029-1518"
+    },
+    {
+      "name": "EL CORTEZ HOTEL & CASINO",
+      "address": "600 FREMONT ST, LAS VEGAS, NV, 89101-5614"
+    },
+    {
+      "name": "ELDORADO HOTEL CASINO RENO",
+      "address": "345 N VIRGINIA ST, RENO, NV, 89501-1136"
+    },
+    {
+      "name": "ELEMENTS CASINO FLAMBORO",
+      "address": "967 Hwy 5 RR# 6, Dundas, ON, L9H 5G1"
+    },
+    {
+      "name": "ELEMENTS CASINO GRAND RIVER",
+      "address": "7445 WELLINGTON COUNTY RD 21, ELORA, ON, N0B 1S0"
+    },
+    {
+      "name": "ELEMENTS CASINO MOHAWK",
+      "address": "9430 GUELPH LINE, CAMPBELLVILLE, ON, L0P 1B0"
+    },
+    {
+      "name": "ELEMENTS CASINO SURREY",
+      "address": "17755 60 AVE, SURREY, BC, V3S 1V3"
+    },
+    {
+      "name": "ELEMENTS CASINO VICTORIA",
+      "address": "74 SEYMOUR ST W, KAMLOOPS, BC, V2C 1E2"
+    },
+    {
+      "name": "ELEMENTS CHANCES CHILLIWACK",
+      "address": "8180 YOUNG RD, CHILLIWACK, BC, V2P 4N9"
+    },
+    {
+      "name": "ELK VALLEY CASINO",
+      "address": "2500 HOWLAND HILL RD, CRESCENT CITY, CA, 95531-9241"
+    },
+    {
+      "name": "ELLIS ISLAND CASINO & BREWERY",
+      "address": "4178 KOVAL LN, LAS VEGAS, NV, 89109-4568"
+    },
+    {
+      "name": "EMERALD ISLAND CASINO",
+      "address": "120 MARKET ST, HENDERSON, NV, 89015-7366"
+    },
+    {
+      "name": "ENCORE AT WYNN LAS VEGAS",
+      "address": "3121 LAS VEGAS BLVD S, LAS VEGAS, NV, 89109-1967"
+    },
+    {
+      "name": "ENCORE BOSTON HARBOR",
+      "address": "1 BROADWAY, EVERETT, MA, 02149-2432"
+    },
+    {
+      "name": "EUREKA CASINO - MESQUITE",
+      "address": "275 MESA BLVD, MESQUITE, NV, 89027-3204"
+    },
+    {
+      "name": "EVANGELINE DOWNS RACETRACK & CASINO",
+      "address": "2235 CRESWELL LN EXT, OPELOUSAS, LA, 70570-1981"
+    },
+    {
+      "name": "EXCALIBUR HOTEL AND CASINO",
+      "address": "3850 LAS VEGAS BLVD S, LAS VEGAS, NV, 89109-4324"
+    },
+    {
+      "name": "FALLSVIEW CASINO RESORT",
+      "address": "6380 FALLSVIEW BLVD, Niagara Falls, ON, L2G 3W6"
+    },
+    {
+      "name": "FANCY DANCE CASINO",
+      "address": "8651 Quail, Perry, OK, 73077"
+    },
+    {
+      "name": "FANDUEL SPORTSBOOK AND HORSE RACING",
+      "address": "9301 COLLINSVILLE RD, COLLINSVILLE, IL, 62234-1729"
+    },
+    {
+      "name": "FANTASY SPRINGS CASINO",
+      "address": "84245 INDIO SPRINGS DR, INDIO, CA, 92203-3405"
+    },
+    {
+      "name": "FEATHER FALLS CASINO",
+      "address": "3 ALVERDA DR, OROVILLE, CA, 95966-9379"
+    },
+    {
+      "name": "FIREKEEPERS CASINO",
+      "address": "11177 MICHIGAN AVE E, BATTLE CREEK, MI, 49014-8904"
+    },
+    {
+      "name": "FIRELAKE CASINO",
+      "address": "41170 HARDESTY RD., SHAWNEE, OK, 74801"
+    },
+    {
+      "name": "FIRST GOLD HOTEL & GAMING",
+      "address": "270 MAIN ST, DEADWOOD, SD, 57732-1224"
+    },
+    {
+      "name": "FITZ TUNICA CASINO  HOTEL",
+      "address": "711 LUCKY LN, ROBINSONVILLE, MS, 38664-9141"
+    },
+    {
+      "name": "FLAMINGO LAS VEGAS",
+      "address": "3555 LAS VEGAS BLVD S, LAS VEGAS, NV, 89109-8901"
+    },
+    {
+      "name": "FOND-DU-LUTH CASINO",
+      "address": "129 E SUPERIOR ST, DULUTH, MN, 55802-2127"
+    },
+    {
+      "name": "FONTAINEBLEAU LAS VEGAS",
+      "address": "2701 LAS VEGAS BLVD S, LAS VEGAS, NV, 89109-1124"
+    },
+    {
+      "name": "FORTUNE BAY RESORT CASINO",
+      "address": "1430 BOIS FORTE RD, TOWER, MN, 55790-8111"
+    },
+    {
+      "name": "FOUR QUEENS HOTEL & CASINO",
+      "address": "202 FREMONT ST, LAS VEGAS, NV, 89101-5606"
+    },
+    {
+      "name": "FOUR WINDS DOWAGIAC",
+      "address": "58700 M 51 S, DOWAGIAC, MI, 49047-9733"
+    },
+    {
+      "name": "FOUR WINDS HARTFORD",
+      "address": "68600 RED ARROW HWY, HARTFORD, MI, 49057-9718"
+    },
+    {
+      "name": "FOUR WINDS NEW BUFFALO",
+      "address": "11111 WILSON ROAD, NEW BUFFALO, MI, 49117"
+    },
+    {
+      "name": "FOUR WINDS SOUTH BEND",
+      "address": "3000 PRAIRIE AVE, SOUTH BEND, IN, 46614-4261"
+    },
+    {
+      "name": "FOXWOODS RESORT AND CASINO",
+      "address": "350 TROLLEY LINE BLVD, MASHANTUCKET, CT, 06338-3830"
+    },
+    {
+      "name": "FREMONT HOTEL AND CASINO",
+      "address": "200 FREMONT ST, LAS VEGAS, NV, 89101-5622"
+    },
+    {
+      "name": "FRENCH LICK RESORT CASINO",
+      "address": "8670 W STATE ROAD 56, FRENCH LICK, IN, 47432-9389"
+    },
+    {
+      "name": "GATEWAY CASINOS INNISFIL",
+      "address": "7485 5TH SIDE RD, INNISFIL, ON, L9S 3S1"
+    },
+    {
+      "name": "GATEWAY CASINOS LONDON",
+      "address": "900 KING ST, LONDON, ON, N5W 5K3"
+    },
+    {
+      "name": "GATEWAY CASINOS WOODSTOCK",
+      "address": "851 NELLIS ST, WOODSTOCK, ON, N4S 8Z9"
+    },
+    {
+      "name": "GCG OKC CO-INVESTOR, LLC",
+      "address": "1125 WALDRON DR, DURANT, OK, 74701-1907"
+    },
+    {
+      "name": "GCG PARTNERS IV, LLC",
+      "address": "538 KINGS MOUNTAIN BLVD, KINGS MOUNTAIN, NC, 28086-9184"
+    },
+    {
+      "name": "GOLD BAR ELKO",
+      "address": "3600 WEST IDAHO ST, ELKO, NV, 89801-4649"
+    },
+    {
+      "name": "GOLD COUNTRY CASINO AND HOTEL",
+      "address": "4020 OLIVE HWY, OROVILLE, CA, 95966-5527"
+    },
+    {
+      "name": "GOLD DUST WEST CASINO - ELKO",
+      "address": "1660 MOUNTAIN CITY HWY, ELKO, NV, 89801-2775"
+    },
+    {
+      "name": "GOLD DUST WEST- CARSON CITY",
+      "address": "2171 E WILLIAM ST, CARSON CITY, NV, 89701-2723"
+    },
+    {
+      "name": "GOLD RANCH CASINO - DAYTON",
+      "address": "GOLD RANCH CASINO 755 US HIGHWAY 50 E, DAYTON, NV, 89403-6608"
+    },
+    {
+      "name": "GOLD RANCH CASINO - VERDI",
+      "address": "350 GOLD RANCH RD, VERDI, NV, 89439-8190"
+    },
+    {
+      "name": "GOLD RIVER CASINO",
+      "address": "31064 SOUTH HIGHWAY 281, ANADARKO, OK, 73005-0806"
+    },
+    {
+      "name": "GOLD STRIKE CASINO RESORT",
+      "address": "1010 CASINO CENTER DR, ROBINSONVILLE, MS, 38664-9758"
+    },
+    {
+      "name": "GOLDEN ACORN CASINO",
+      "address": "1800 GOLDEN ACORN WAY, CAMPO, CA, 91906-2301"
+    },
+    {
+      "name": "GOLDEN EAGLE CASINO",
+      "address": "1121 GOLDFINCH RD, HORTON, KS, 66439-9537"
+    },
+    {
+      "name": "GOLDEN GATE HOTEL & CASINO",
+      "address": "1 FREMONT ST, LAS VEGAS, NV, 89101-5601"
+    },
+    {
+      "name": "GOLDEN MOON HOTEL & CASINO",
+      "address": "13541 HIGHWAY 16 W, CHOCTAW, MS, 39350-6510"
+    },
+    {
+      "name": "GOLDEN NUGGET ATLANTIC CITY",
+      "address": "600 HURON AVE HURON AVE AND BRIGANTINE BLVD., ATLANTIC CITY, NJ, 08401-1913"
+    },
+    {
+      "name": "GOLDEN NUGGET BILOXI",
+      "address": "151 BEACH BLVD, BILOXI, MS, 39530-4708"
+    },
+    {
+      "name": "GOLDEN NUGGET CRIPPLE CREEK CASINO",
+      "address": "119 CARBONATE ST., CRIPPLE CREEK, CO, 80813-1650"
+    },
+    {
+      "name": "GOLDEN NUGGET DANVILLE",
+      "address": "204 EASTGATE CT, DANVILLE, IL, 61834-9328"
+    },
+    {
+      "name": "GOLDEN NUGGET LAKE CHARLES",
+      "address": "2550 GOLDEN NUGGET BLVD, LAKE CHARLES, LA, 70601-9031"
+    },
+    {
+      "name": "GOLDEN NUGGET LAKE TAHOE",
+      "address": "50 HIGHWAY 50, STATELINE, NV, 89449-9818"
+    },
+    {
+      "name": "GOLDEN NUGGET LAS VEGAS",
+      "address": "129 FREMONT ST, LAS VEGAS, NV, 89101-5603"
+    },
+    {
+      "name": "GOLDEN WEST RESTAURANT CASINO",
+      "address": "91 E MESQUITE BLVD, MESQUITE, NV, 89027-4782"
+    },
+    {
+      "name": "GRAND CASINO HINCKLEY",
+      "address": "777 LADY LUCK DR, HINCKLEY, MN, 55037-6400"
+    },
+    {
+      "name": "GRAND CASINO HOTEL RESORT",
+      "address": "777 GRAND CASINO BLVD, SHAWNEE, OK, 74804-1005"
+    },
+    {
+      "name": "GRAND CASINO MILLE LACS",
+      "address": "777 GRAND AVE, ONAMIA, MN, 56359-4500"
+    },
+    {
+      "name": "GRAND FALLS CASINO RESORT",
+      "address": "1415 GRAND FALLS BLVD, LARCHWOOD, IA, 51241-5000"
+    },
+    {
+      "name": "GRAND ISLAND CASINO RESORT, LLC",
+      "address": "700 E STOLLEY PARK RD, GRAND ISLAND, NE, 68801-2200"
+    },
+    {
+      "name": "GRAND LAKE CASINO (GROVE)",
+      "address": "24701 S 655 RD, GROVE, OK, 74344-4012"
+    },
+    {
+      "name": "GRAND PORTAGE CASINO",
+      "address": "72 CASINO DR, GRAND PORTAGE, MN, 55605-4403"
+    },
+    {
+      "name": "GRAND SIERRA RESORT AND CASINO",
+      "address": "2500 E 2ND STREET, RENO, NV, 89595-0001"
+    },
+    {
+      "name": "GRAND VICTORIA CASINO",
+      "address": "250 S GROVE AVE, ELGIN, IL, 60120-6447"
+    },
+    {
+      "name": "GRAND VILLA CASINO",
+      "address": "4331 DOMINION ST, BURNABY, BC, V5G 1C7"
+    },
+    {
+      "name": "GRAND VILLA CASINO EDMONTON",
+      "address": "10204 104 AVENUE NORTHWEST, Edmonton, AB, T5J 4Y8"
+    },
+    {
+      "name": "GRAND Z CASINO HOTEL",
+      "address": "321 GREGORY STREET, CENTRAL CITY, CO, 80427"
+    },
+    {
+      "name": "GRATON RESORT & CASINO",
+      "address": "288 GOLF COURSE DR, ROHNERT PARK, CA, 94928-1756"
+    },
+    {
+      "name": "GREAT BLUE HERON CASINO",
+      "address": "21777 ISLAND RD, PORT PERRY, ON, L9L 1B6"
+    },
+    {
+      "name": "GREAT CANADIAN CASINO RESORT TORONTO",
+      "address": "1133 QUEENS PLATE DR, TORONTO, ON, M9W 0G4"
+    },
+    {
+      "name": "GREAT CANADIAN CASINO VANCOUVER",
+      "address": "74 SEYMOUR ST W, KAMLOOPS, BC, V2C 1E2"
+    },
+    {
+      "name": "GREEN VALLEY RANCH RESORT SPA CASINO",
+      "address": "2300 PASEO VERDE PKWY, HENDERSON, NV, 89052-2672"
+    },
+    {
+      "name": "GREY EAGLE RESORT & CASINO",
+      "address": "3777 GREY EAGLE DR, CALGARY, AB, T3E 3X8"
+    },
+    {
+      "name": "GULFSTREAM PARK",
+      "address": "901 S FEDERAL HWY, HALLANDALE BEACH, FL, 33009-7124"
+    },
+    {
+      "name": "GUN LAKE CASINO",
+      "address": "1123 129TH AVE, WAYLAND, MI, 49348-9476"
+    },
+    {
+      "name": "HARD ROCK ATLANTIC CITY",
+      "address": "1000 BOARDWALK, ATLANTIC CITY, NJ, 08401-7415"
+    },
+    {
+      "name": "HARD ROCK BRISTOL",
+      "address": "500 GATE CITY HWY, BRISTOL, VA, 24201-2372"
+    },
+    {
+      "name": "HARD ROCK CASINO CINCINNATI",
+      "address": "1000 BROADWAY ST, CINCINNATI, OH, 45202-1364"
+    },
+    {
+      "name": "HARD ROCK CASINO NORTHERN INDIANA",
+      "address": "111 MONUMENT CIR STE 777, INDIANAPOLIS, IN, 46204-5111"
+    },
+    {
+      "name": "HARD ROCK CASINO ROCKFORD",
+      "address": "7801 E STATE ST, ROCKFORD, IL, 61108-2721"
+    },
+    {
+      "name": "HARD ROCK HOTEL & CASINO SACRAMENTO AT FIRE MOUNTAIN",
+      "address": "3317 FORTY MILE RD, WHEATLAND, CA, 95692-8803"
+    },
+    {
+      "name": "HARD ROCK HOTEL & CASINO SIOUX CITY",
+      "address": "111 3RD ST, SIOUX CITY, IA, 51101-1410"
+    },
+    {
+      "name": "HARD ROCK HOTEL AND CASINO BILOXI",
+      "address": "777 BEACH BLVD, BILOXI, MS, 39530-4300"
+    },
+    {
+      "name": "HARRAHS AK-CHIN CASINO AND RESORT",
+      "address": "15406 N MARICOPA RD, MARICOPA, AZ, 85139-2819"
+    },
+    {
+      "name": "HARRAHS CASINO HOTEL LAKE TAHOE",
+      "address": "15 HIGHWAY 50, STATELINE, NV, 89449-9818"
+    },
+    {
+      "name": "HARRAHS CASINO HOTEL, LAS VEGAS",
+      "address": "3475 LAS VEGAS BLVD S, LAS VEGAS, NV, 89109-8922"
+    },
+    {
+      "name": "HARRAHS CHEROKEE CASINO RESORT",
+      "address": "777 CASINO DR, CHEROKEE, NC, 28719-9761"
+    },
+    {
+      "name": "HARRAHS CHEROKEE VALLEY RIVER CASINO & HOTEL",
+      "address": "777 CASINO PKWY, MURPHY, NC, 28906-5212"
+    },
+    {
+      "name": "HARRAHS COUNCIL BLUFFS CASINO AND HOTEL",
+      "address": "1 HARRAHS BLVD, COUNCIL BLUFFS, IA, 51501-5680"
+    },
+    {
+      "name": "HARRAHS GULF COAST",
+      "address": "11975 SEAWAY RD, GULFPORT, MS, 39503-6015"
+    },
+    {
+      "name": "HARRAHS HOOSIER PARK RACING  CASINO",
+      "address": "4500 DAN PATCH CIR, ANDERSON, IN, 46013-3165"
+    },
+    {
+      "name": "HARRAHS JOLIET CASINO HOTEL",
+      "address": "151 N JOLIET ST, JOLIET, IL, 60432-4018"
+    },
+    {
+      "name": "HARRAHS METROPOLIS CASINO",
+      "address": "100 E FRONT ST, METROPOLIS, IL, 62960-2257"
+    },
+    {
+      "name": "HARRAHS NEBRASKA",
+      "address": "822 15TH ST, COLUMBUS, NE, 68601-5370"
+    },
+    {
+      "name": "HARRAHS NORTH KANSAS CITY CASINO",
+      "address": "1 RIVERBOAT DR, NORTH KANSAS CITY, MO, 64116-3267"
+    },
+    {
+      "name": "HARRAHS NORTHERN CALIFORNIA CASINO",
+      "address": "4640 COAL MINE RD, IONE, CA, 95640-9626"
+    },
+    {
+      "name": "HARRAHS PHILADELPHIA CASINO AND RACETRACK",
+      "address": "777 HARRAHS BLVD ATTN RECEIVING, CHESTER, PA, 19013-4505"
+    },
+    {
+      "name": "HARRAHS RESORT ATLANTIC CITY",
+      "address": "777 HARRAHS BLVD, ATLANTIC CITY, NJ, 08401-1911"
+    },
+    {
+      "name": "HARRAHS RESORT SOUTHERN CALIFORNIA",
+      "address": "777 HARRAHS RINCON WAY, VALLEY CENTER, CA, 92082-5343"
+    },
+    {
+      "name": "HARRINGTON RACEWAY AND CASINO",
+      "address": "15 W RIDER RD, HARRINGTON, DE, 19952-3322"
+    },
+    {
+      "name": "HAVASU LANDING RESORT & CASINO",
+      "address": "1 MAIN ST, HAVASU LAKE, CA, 92363-9216"
+    },
+    {
+      "name": "HIALEAH PARK CASINO",
+      "address": "100 E 32ND ST 2ND FLOOR EXECUTIVE OFFICES, HIALEAH, FL, 33013-3293"
+    },
+    {
+      "name": "HIGH WINDS CASINO",
+      "address": "61475 E 100 RD, MIAMI, OK, 74354-3858"
+    },
+    {
+      "name": "HO-CHUNK GAMING WISCONSIN DEL",
+      "address": "S3214 COUNTY ROAD BD, BARABOO, WI, 53913-9405"
+    },
+    {
+      "name": "HO-CHUNK GAMING WITTENBERG",
+      "address": "N7198 US HIGHWAY 45, WITTENBERG, WI, 54499-8568"
+    },
+    {
+      "name": "HOLLYWOOD CASINO - AURORA",
+      "address": "1 W NEW YORK ST, AURORA, IL, 60506-4120"
+    },
+    {
+      "name": "HOLLYWOOD CASINO - PERRYVILLE",
+      "address": "1201 CHESAPEAKE OVERLOOK PKWY, PERRYVILLE, MD, 21903-2224"
+    },
+    {
+      "name": "HOLLYWOOD CASINO AT CHARLES TOWN RACES",
+      "address": "750 HOLLYWOOD DR, CHARLES TOWN, WV, 25414-1188"
+    },
+    {
+      "name": "HOLLYWOOD CASINO AT GREEKTOWN",
+      "address": "555 E LAFAYETTE BLVD, DETROIT, MI, 48226-2924"
+    },
+    {
+      "name": "HOLLYWOOD CASINO AT KANSAS SPEEDWAY",
+      "address": "777 HOLLYWOOD CASINO BLVD, KANSAS CITY, KS, 66111-8102"
+    },
+    {
+      "name": "HOLLYWOOD CASINO AT PENN NATIONAL RACE COURSE",
+      "address": "777 HOLLYWOOD BLVD, GRANTVILLE, PA, 17028-9237"
+    },
+    {
+      "name": "HOLLYWOOD CASINO AT THE MEADOWS",
+      "address": "210 RACETRACK RD, WASHINGTON, PA, 15301-8966"
+    },
+    {
+      "name": "HOLLYWOOD CASINO BAY ST. LOUIS",
+      "address": "711 HOLLYWOOD BLVD, BAY SAINT LOUIS, MS, 39520-1808"
+    },
+    {
+      "name": "HOLLYWOOD CASINO COLUMBUS",
+      "address": "200 GEORGESVILLE RD, COLUMBUS, OH, 43228-2020"
+    },
+    {
+      "name": "HOLLYWOOD CASINO JOLIET",
+      "address": "1401 GATEWAY BLVD, JOLIET, IL, 60431-3200"
+    },
+    {
+      "name": "HOLLYWOOD CASINO LAWRENCEBURG",
+      "address": "777 HOLLYWOOD BLVD, LAWRENCEBURG, IN, 47025-2503"
+    },
+    {
+      "name": "HOLLYWOOD CASINO MORGANTOWN",
+      "address": "6021 MORGANTOWN RD, MORGANTOWN, PA, 19543-9520"
+    },
+    {
+      "name": "HOLLYWOOD CASINO ST LOUIS",
+      "address": "777 CASINO CENTER DR, MARYLAND HEIGHTS, MO, 63043-4821"
+    },
+    {
+      "name": "HOLLYWOOD CASINO TOLEDO",
+      "address": "1968 MIAMI ST, TOLEDO, OH, 43605-3359"
+    },
+    {
+      "name": "HOLLYWOOD CASINO TUNICA",
+      "address": "1150 CASINO STRIP RESORT BLVD, ROBINSONVILLE, MS, 38664-9138"
+    },
+    {
+      "name": "HOLLYWOOD CASINO YORK",
+      "address": "2899 WHITEFORD RD, YORK, PA, 17402-8902"
+    },
+    {
+      "name": "HOLLYWOOD GAMING AT DAYTON RACEWAY",
+      "address": "4701 WAGNER FORD RD, DAYTON, OH, 45414-4421"
+    },
+    {
+      "name": "HOLLYWOOD GAMING AT MAHONING VALLEY RACE COURSE",
+      "address": "655 N CANFIELD NILES RD, YOUNGSTOWN, OH, 44515-1102"
+    },
+    {
+      "name": "HORSESHOE BALTIMORE CASINO",
+      "address": "1525 RUSSELL ST, BALTIMORE, MD, 21230-2058"
+    },
+    {
+      "name": "HORSESHOE BOSSIER CITY",
+      "address": "711 HORSESHOE BLVD, BOSSIER CITY, LA, 71111-4472"
+    },
+    {
+      "name": "HORSESHOE COUNCIL BLUFFS",
+      "address": "2701 23RD AVE, COUNCIL BLUFFS, IA, 51501-6958"
+    },
+    {
+      "name": "HORSESHOE HAMMOND",
+      "address": "777 CASINO CENTER DR, HAMMOND, IN, 46320-1003"
+    },
+    {
+      "name": "HORSESHOE INDIANAPOLIS",
+      "address": "4300 N MICHIGAN RD, SHELBYVILLE, IN, 46176-9751"
+    },
+    {
+      "name": "HORSESHOE LAKE CHARLES",
+      "address": "100 WESTLAKE AVE, WESTLAKE, LA, 70669-5716"
+    },
+    {
+      "name": "HORSESHOE LAS VEGAS",
+      "address": "3645 LAS VEGAS BLVD S, LAS VEGAS, NV, 89109-4321"
+    },
+    {
+      "name": "HORSESHOE SAINT LOUIS",
+      "address": "999 N 2ND ST, SAINT LOUIS, MO, 63102-2571"
+    },
+    {
+      "name": "HORSESHOE TUNICA",
+      "address": "1021 CASINO CENTER DR, ROBINSONVILLE, MS, 38664-9708"
+    },
+    {
+      "name": "HR OTTAWA LP",
+      "address": "4837 ALBION RD, GLOUCESTER, ON, K1X 1A3"
+    },
+    {
+      "name": "INDIGO SKY CASINO",
+      "address": "70220 E HIGHWAY 60, WYANDOTTE, OK, 74370-2017"
+    },
+    {
+      "name": "INN OF THE MOUNTAIN GODS CASINO",
+      "address": "287 CARRIZO CANYON RD, MESCALERO, NM, 88340-9641"
+    },
+    {
+      "name": "IP CASINO RESORT AND SPA",
+      "address": "850 BAYVIEW AVE, BILOXI, MS, 39530-1701"
+    },
+    {
+      "name": "ISLAND RESORT  CASINO",
+      "address": "W. 399 US HIGHWAY 2 & 41, HARRIS, MI, 49845-0351"
+    },
+    {
+      "name": "ISLE CASINO HOTEL WATERLOO",
+      "address": "777 ISLE OF CAPRI BLVD SUITE 300, WATERLOO, IA, 50701-9299"
+    },
+    {
+      "name": "ISLE CASINO RACING POMPANO BEACH",
+      "address": "1800 SW 3RD ST, POMPANO BEACH, FL, 33069-3106"
+    },
+    {
+      "name": "ISLE OF CAPRI - BOONVILLE",
+      "address": "100 ISLE OF CAPRI BLVD, BOONVILLE, MO, 65233-1124"
+    },
+    {
+      "name": "ISLETA RESORT AND CASINO",
+      "address": "11000 BROADWAY BLVD SE, ALBUQUERQUE, NM, 87105-7469"
+    },
+    {
+      "name": "J RESORT",
+      "address": "345 N ARLINGTON AVE, RENO, NV, 89501-1132"
+    },
+    {
+      "name": "J.P. MCGILLS HOTEL & CASINO",
+      "address": "256 BENNETT AVE, CRIPPLE CREEK, CO, 80813-9609"
+    },
+    {
+      "name": "JACK CLEVELAND CASINO LLC",
+      "address": "100 PROSPECT AVE E, CLEVELAND, OH, 44115-1013"
+    },
+    {
+      "name": "JACK THISTLEDOWN RACINO LLC",
+      "address": "21501 EMERY RD, NORTH RANDALL, OH, 44128-4513"
+    },
+    {
+      "name": "JACKPOT JOANIES DW",
+      "address": "8450 WESTCLIFF DR, LAS VEGAS, NV, 89145-3906"
+    },
+    {
+      "name": "JACKPOT JUNCTION CASINO  HOTEL",
+      "address": "39375 COUNTY HIGHWAY 24, MORTON, MN, 56270-1273"
+    },
+    {
+      "name": "JACKSON RANCHERIA CASINO",
+      "address": "12222 NEW YORK RANCH RD, JACKSON, CA, 95642-9407"
+    },
+    {
+      "name": "JAMUL INDIAN VILLAGE DEV CORP",
+      "address": "14191 CAMPO RD, JAMUL, CA, 91935-3213"
+    },
+    {
+      "name": "JIM KELLEY’S TAHOE NUGGET",
+      "address": "20 STATE ROUTE 28, CRYSTAL BAY, NV, 89402-7717"
+    },
+    {
+      "name": "JOHNNY NOLONS CASINO",
+      "address": "301 BENNETT DR, CRIPPLE CREEK, CO, 80813-9569"
+    },
+    {
+      "name": "KANSAS STAR CASINO",
+      "address": "777 KANSAS STAR DRIVE, MULVANE, KS, 67110"
+    },
+    {
+      "name": "KEWADIN - SAULT ST. MARIE",
+      "address": "2186 SHUNK RD, SAULT SAINTE MARIE, MI, 49783-9467"
+    },
+    {
+      "name": "KEWADIN - ST. IGNACE",
+      "address": "3015 MACKINAC TRL, SAINT IGNACE, MI, 49781-9758"
+    },
+    {
+      "name": "KICKAPOO CASINO - HARRAH",
+      "address": "25230 E HIGHWAY 62, HARRAH, OK, 73045-7306"
+    },
+    {
+      "name": "KICKAPOO CASINO SHAWNEE",
+      "address": "38900 W MACARTHUR ST, SHAWNEE, OK, 74804-9145"
+    },
+    {
+      "name": "KIOWA CASINO RED RIVER",
+      "address": "198131 HIGHWAY 36, DEVOL, OK, 73531-4232"
+    },
+    {
+      "name": "KLA-MO-YA CASINO",
+      "address": "34333 HIGHWAY 97 N, CHILOQUIN, OR, 97624-8747"
+    },
+    {
+      "name": "KO-KWEL CASINO RESORT",
+      "address": "3201 TREMONT ST, NORTH BEND, OR, 97459-3062"
+    },
+    {
+      "name": "LADY LUCK CASINO BLACK HAWK",
+      "address": "340 MAIN STREET, BLACK HAWK, CO, 80422-0777"
+    },
+    {
+      "name": "LAKE EUFAULA CASINO & HOTEL",
+      "address": "1045 BIRKES RD, EUFAULA, OK, 74432-4026"
+    },
+    {
+      "name": "LAKE OF THE TORCHES RESORT  CASINO",
+      "address": "510 OLD ABE RD, LAC DU FLAMBEAU, WI, 54538-9680"
+    },
+    {
+      "name": "LAKESIDE CASINO  RV PARK",
+      "address": "5870 HOMESTEAD RD, PAHRUMP, NV, 89048-7534"
+    },
+    {
+      "name": "LAKESIDE HOTEL CASINO",
+      "address": "777 CASINO DR, OSCEOLA, IA, 50213-8298"
+    },
+    {
+      "name": "LAUBERGE CASINO HOTEL BATON ROUGE",
+      "address": "777 LAUBERGE AVE, BATON ROUGE, LA, 70820-7801"
+    },
+    {
+      "name": "LAUBERGE LAKE CHARLES CASINO RESORT",
+      "address": "777 L AUBERGE AVENUE, LAKE CHARLES, LA, 70601"
+    },
+    {
+      "name": "LAUGHLIN RIVER LODGE",
+      "address": "2700 S CASINO DR, LAUGHLIN, NV, 89029-1516"
+    },
+    {
+      "name": "LEELANAU SANDS CASINO",
+      "address": "2511 N WEST BAY SHORE DR, PESHAWBESTOWN, MI, 49682-9366"
+    },
+    {
+      "name": "LEGENDARY WATERS RESORT  CASINO",
+      "address": "37600 ONIGAMING DR, BAYFIELD, WI, 54814-1105"
+    },
+    {
+      "name": "LEGENDS BAY CASINO",
+      "address": "100 LEGENDS BAY DR, SPARKS, NV, 89434-4417"
+    },
+    {
+      "name": "LITTLE RIVER CASINO RESORT",
+      "address": "2700 ORCHARD HWY, MANISTEE, MI, 49660-9752"
+    },
+    {
+      "name": "LITTLE SIX CASINO",
+      "address": "2450 SIOUX TRL NW, PRIOR LAKE, MN, 55372-9078"
+    },
+    {
+      "name": "LIVE! CASINO  HOTEL LOUISIANA",
+      "address": "711 LIVE CASINO BLVD, BOSSIER CITY, LA, 71111-5046"
+    },
+    {
+      "name": "LIVE! CASINO HOTEL PHILADELPHIA",
+      "address": "900 PACKER AVE, PHILADELPHIA, PA, 19148-5310"
+    },
+    {
+      "name": "LIVE! CASINO PITTSBURGH",
+      "address": "5260 STATE ROUTE 30, GREENSBURG, PA, 15601-6405"
+    },
+    {
+      "name": "LIVE! CASINO VIRGINIA",
+      "address": "301 WAGNER RD, PETERSBURG, VA, 23805-9377"
+    },
+    {
+      "name": "LONE BUTTE CASINO",
+      "address": "1077 S KYRENE RD, CHANDLER, AZ, 85226-4491"
+    },
+    {
+      "name": "LONGHORN HOTEL CASINO",
+      "address": "5288 BOULDER HWY, LAS VEGAS, NV, 89122-6003"
+    },
+    {
+      "name": "LOUISIANA DOWNS",
+      "address": "8000 E TEXAS ST, BOSSIER CITY, LA, 71111-7016"
+    },
+    {
+      "name": "LOVES TRAVEL STOP - GOLD BAR CARLIN",
+      "address": "2001 STATE ROUTE 766, CARLIN, NV, 89822-0560"
+    },
+    {
+      "name": "LUCKY 7 SMITH RIVER",
+      "address": "350 N INDIAN RD, SMITH RIVER, CA, 95567-9474"
+    },
+    {
+      "name": "LUCKY 7S ESR",
+      "address": "10940 S EASTERN AVE STE 101, HENDERSON, NV, 89052-4967"
+    },
+    {
+      "name": "LUCKY STAR - CONCHO TRAVEL CENTER",
+      "address": "7751 US 81, EL RENO, OK, 73036"
+    },
+    {
+      "name": "LUCKY STAR CASINO -  CLINTON",
+      "address": "10347 N 2274 RD, CLINTON, OK, 73601-7521"
+    },
+    {
+      "name": "LUCKY STAR CASINO - CANTON",
+      "address": "301 NW North Canton Avenue, Canton, OK, 73724"
+    },
+    {
+      "name": "LUCKY STAR CASINO - CONCHO",
+      "address": "7777 N Highway 81, Concho, OK, 73022"
+    },
+    {
+      "name": "LUCKY STAR CASINO - WATONGA",
+      "address": "1407 S CLARENCE NASH BLVD, WATONGA, OK, 73772-4252"
+    },
+    {
+      "name": "LUCKY STAR CASINO-108",
+      "address": "945 SOUTH WALBAUM ROAD, CALUMET, OK, 73014"
+    },
+    {
+      "name": "LUXOR HOTEL & CASINO",
+      "address": "3900 LAS VEGAS BLVD S, LAS VEGAS, NV, 89119-1004"
+    },
+    {
+      "name": "M RESORT SPA CASINO",
+      "address": "6700 VIA AUSTI PKWY, LAS VEGAS, NV, 89119-3545"
+    },
+    {
+      "name": "MAGIC CITY CASINO",
+      "address": "450 NW 37TH AVE, MIAMI, FL, 33125-4041"
+    },
+    {
+      "name": "MAGNOLIA BLUFFS CASINO",
+      "address": "7 ROTH HILL RD, NATCHEZ, MS, 39120"
+    },
+    {
+      "name": "MANDALAY BAY RESORT  CASINO",
+      "address": "3950 LAS VEGAS BLVD S, LAS VEGAS, NV, 89119-1005"
+    },
+    {
+      "name": "MARDI GRAS CASINO AND RESORT",
+      "address": "1 GREYHOUND DR, CROSS LANES, WV, 25313-1474"
+    },
+    {
+      "name": "MARGARITAVILLE CASINO TULSA",
+      "address": "8330 RIVERSIDE PKWY, TULSA, OK, 74137-1200"
+    },
+    {
+      "name": "MARGARITAVILLE RESORT CASINO",
+      "address": "777 MARGARITAVILLE WAY, BOSSIER CITY, LA, 71111-7770"
+    },
+    {
+      "name": "MARK TWAIN CASINO",
+      "address": "104 PIERCE ST, LA GRANGE, MO, 63448-1325"
+    },
+    {
+      "name": "MARYLAND LIVE! CASINO",
+      "address": "7002 ARUNDEL MILLS CIR SUITE 777, HANOVER, MD, 21076-1280"
+    },
+    {
+      "name": "MCALESTER TRAVEL PLAZA",
+      "address": "1640 S GEORGE NIGH EXPY, MCALESTER, OK, 74501-7411"
+    },
+    {
+      "name": "MCPHILLIPS STATION CASINO",
+      "address": "484 MCPHILLIPS ST, WINNIPEG, MB, R2X 2H2"
+    },
+    {
+      "name": "MESKWAKI CASINO - IOWA",
+      "address": "1504 305TH ST, TAMA, IA, 52339-9697"
+    },
+    {
+      "name": "MGM GRAND DETROIT CASINO",
+      "address": "1777 3RD ST, DETROIT, MI, 48226-2561"
+    },
+    {
+      "name": "MGM GRAND HOTEL AND CASINO",
+      "address": "3799 LAS VEGAS BLVD S, LAS VEGAS, NV, 89109-4319"
+    },
+    {
+      "name": "MGM NATIONAL HARBOR",
+      "address": "101 MGM NATIONAL AVE, OXON HILL, MD, 20745-1134"
+    },
+    {
+      "name": "MGM SPRINGFIELD",
+      "address": "1 MGM WAY, SPRINGFIELD, MA, 01103-2134"
+    },
+    {
+      "name": "MIAMI VALLEY GAMING AND RACING",
+      "address": "6000 W STATE ROUTE 63, LEBANON, OH, 45036-7900"
+    },
+    {
+      "name": "MICHAEL J. GAUGHAN, AIRPORT SLOT CONCESSION",
+      "address": "5757 WAYNE NEWTON BLVD # 17, LAS VEGAS, NV, 89111-8037"
+    },
+    {
+      "name": "MIDNIGHT ROSE HOTEL  CASINO",
+      "address": "256 E. BENNETT AVE, CRIPPLE CREEK, CO, 80813-9609"
+    },
+    {
+      "name": "MINERAL PALACE HOTEL AND GAMING",
+      "address": "601 MAIN ST, DEADWOOD, SD, 57732-1106"
+    },
+    {
+      "name": "MOHEGAN SUN",
+      "address": "1 MOHEGAN SUN BLVD, UNCASVILLE, CT, 06382-1355"
+    },
+    {
+      "name": "MOHEGAN SUN POCONO",
+      "address": "1280 HIGHWAY 315 BLVD, WILKES BARRE, PA, 18702-7002"
+    },
+    {
+      "name": "MOHICAN NORTH STAR GAMING AND RESORT",
+      "address": "W12180 COUNTY ROAD A, BOWLER, WI, 54416-9401"
+    },
+    {
+      "name": "MONARCH CASINO BLACK HAWK",
+      "address": "488 MAIN ST, BLACK HAWK, CO, 80422-5029"
+    },
+    {
+      "name": "MORONGO CASINO, RESORT  SPA",
+      "address": "49500 SEMINOLE DR, CABAZON, CA, 92230-2202"
+    },
+    {
+      "name": "MOTORCITY CASINO",
+      "address": "2901 GRAND RIVER AVE, DETROIT, MI, 48201-2907"
+    },
+    {
+      "name": "MOUNT AIRY CASINO RESORT",
+      "address": "312 WOODLAND RD, MOUNT POCONO, PA, 18344-7172"
+    },
+    {
+      "name": "MOUNTAINEER CASINO  RESORT",
+      "address": "1420 MOUNTAINEER CIR, NEW CUMBERLAND, WV, 26047-2651"
+    },
+    {
+      "name": "MUSCOGEE CREEK NATION CASINO",
+      "address": "3420 WEST PEAK BOULEVARD, MUSKOGEE, OK, 74401"
+    },
+    {
+      "name": "MYSTIC LAKE CASINO  HOTEL",
+      "address": "2400 MYSTIC LAKE BLVD, PRIOR LAKE, MN, 55372-9004"
+    },
+    {
+      "name": "NATIVE LIGHTS CASINO",
+      "address": "12375 N HIGHWAY 77, NEWKIRK, OK, 74647-7507"
+    },
+    {
+      "name": "NEW YORK-NEW YORK HOTEL AND CASINO",
+      "address": "3790 LAS VEGAS BLVD S, LAS VEGAS, NV, 89109-4338"
+    },
+    {
+      "name": "NORTHERN LIGHTS CASINO",
+      "address": "6800 Y FRONTAGE RD NW, WALKER, MN, 56484-2123"
+    },
+    {
+      "name": "NORTHERN LIGHTS CASINO - SIGA",
+      "address": "44 Marquis Road West, Prince Albert, SK, S6V 7Y5"
+    },
+    {
+      "name": "NORTHFIELD PARK RACINO",
+      "address": "10777 NORTHFIELD RD, NORTHFIELD, OH, 44067-1236"
+    },
+    {
+      "name": "NUGGET CASINO RESORT",
+      "address": "1100 NUGGET AVE, SPARKS, NV, 89431-5750"
+    },
+    {
+      "name": "OAKLAWN RACING GAMING",
+      "address": "2705 CENTRAL AVE, HOT SPRINGS, AR, 71901-7515"
+    },
+    {
+      "name": "OCEAN CASINO RESORT",
+      "address": "500 BOARDWALK, ATLANTIC CITY, NJ, 08401-7609"
+    },
+    {
+      "name": "ODAWA CASINO  RESORT",
+      "address": "1760 LEARS RD, PETOSKEY, MI, 49770-8376"
+    },
+    {
+      "name": "ODAWA CASINO MACKINAW",
+      "address": "1080 S NICOLET ST, MACKINAW CITY, MI, 49701-9642"
+    },
+    {
+      "name": "OHKAY CASINO RESORT",
+      "address": "HIGHWAY 68, 2 MILES NORTH, SAN JUAN PUEBLO, NM, 87566"
+    },
+    {
+      "name": "OJIBWA CASINO RESORT - MARQUETTE",
+      "address": "105 ACRE TRL, MARQUETTE, MI, 49855-9577"
+    },
+    {
+      "name": "OJOS LOCOS SPORTS CANTINA Y CASINO",
+      "address": "3227 CIVIC CENTER DR, NORTH LAS VEGAS, NV, 89030-4505"
+    },
+    {
+      "name": "ONE FIRE CASINO",
+      "address": "1901 N WOOD DR, OKMULGEE, OK, 74447-7978"
+    },
+    {
+      "name": "ONEIDA CASINO",
+      "address": "2170 AIRPORT DR, GREEN BAY, WI, 54313-5538"
+    },
+    {
+      "name": "OSAGE CASINO BARTLESVILLE",
+      "address": "222 ALLEN RD, BARTLESVILLE, OK, 74003-4371"
+    },
+    {
+      "name": "OSAGE CASINO HOMINY",
+      "address": "39 DEER RUN, HOMINY, OK, 74035-2000"
+    },
+    {
+      "name": "OSAGE CASINO PAWHUSKA",
+      "address": "2017 E 15TH ST # 99, PAWHUSKA, OK, 74056-2401"
+    },
+    {
+      "name": "OSAGE CASINO PONCA CITY",
+      "address": "64464 STATE HWY 60, PONCA CITY, OK, 74604"
+    },
+    {
+      "name": "OSAGE CASINO SAND SPRINGS",
+      "address": "301 BLACKJACK DR, SAND SPRINGS, OK, 74063-6707"
+    },
+    {
+      "name": "OSAGE CASINO SKIATOOK - OASIS NSHW",
+      "address": "5591 W ROGERS BLVD, SKIATOOK, OK, 74070-5268"
+    },
+    {
+      "name": "OSAGE CASINO TULSA",
+      "address": "951 West 36th Street North, Tulsa, OK, 74127"
+    },
+    {
+      "name": "OXFORD CASINO",
+      "address": "777 CASINO WAY, OXFORD, ME, 04270-3163"
+    },
+    {
+      "name": "OYO HOTEL  CASINO LAS VEGAS",
+      "address": "115 E TROPICANA AVE, LAS VEGAS, NV, 89109-7304"
+    },
+    {
+      "name": "PAHRUMP NUGGET HOTEL  GAMBLING HALL",
+      "address": "681 S NEVADA HIGHWAY 160, PAHRUMP, NV, 89048-4632"
+    },
+    {
+      "name": "PALA CASINO, SPA  RESORT",
+      "address": "35008 PALA TEMECULA RD, PALA, CA, 92059-2419"
+    },
+    {
+      "name": "PALACE CASINO RESORT",
+      "address": "158 HOWARD AVE, BILOXI, MS, 39530-4744"
+    },
+    {
+      "name": "PALACE STATION HOTEL CASINO",
+      "address": "2411 W SAHARA AVE, LAS VEGAS, NV, 89102-4343"
+    },
+    {
+      "name": "PALMS CASINO RESORT",
+      "address": "4321 W FLAMINGO RD, LAS VEGAS, NV, 89103-3903"
+    },
+    {
+      "name": "PAR-A-DICE HOTEL CASINO",
+      "address": "21 BLACKJACK BLVD, EAST PEORIA, IL, 61611-2010"
+    },
+    {
+      "name": "PARADISE CASINO",
+      "address": "450 QUECHAN DRIVE, YUMA, AZ, 85364"
+    },
+    {
+      "name": "PARAGON CASINO RESORT",
+      "address": "711 PARAGON PL, MARKSVILLE, LA, 71351-6002"
+    },
+    {
+      "name": "PARIS LAS VEGAS",
+      "address": "3655 LAS VEGAS BLVD S, LAS VEGAS, NV, 89109-4345"
+    },
+    {
+      "name": "PARK MGM",
+      "address": "3770 LAS VEGAS BLVD S, LAS VEGAS, NV, 89109-4337"
+    },
+    {
+      "name": "PARQ VANCOUVER",
+      "address": "74 WEST SEYMOUR STREET, KAMLOOPS, BC, V2C 1E2"
+    },
+    {
+      "name": "PARX CASINO - PA",
+      "address": "2999 STREET RD, BENSALEM, PA, 19020-2060"
+    },
+    {
+      "name": "PARX CASINO SHIPPENSBURG",
+      "address": "250 S CONESTOGA DR, SHIPPENSBURG, PA, 17257-9032"
+    },
+    {
+      "name": "PCL ENCHANTED PRINCESS",
+      "address": "8815 NW 33RD ST STE 110, DORAL, FL, 33172-1225"
+    },
+    {
+      "name": "PCL ROYAL PRINCESS",
+      "address": "6301 E 10TH AVE, HIALEAH, FL, 33013-1169"
+    },
+    {
+      "name": "PECHANGA RESORT AND CASINO",
+      "address": "45000 PECHANGA PKWY, TEMECULA, CA, 92592-5810"
+    },
+    {
+      "name": "PICKERING CASINO RESORT",
+      "address": "888 DURHAM LIVE AVE, PICKERING, ON, L1W 0C1"
+    },
+    {
+      "name": "PIONEER CROSSING - DAYTON",
+      "address": "4 PINE CONE RD, DAYTON, NV, 89403-7393"
+    },
+    {
+      "name": "PIONEER CROSSING CASINO",
+      "address": "1705 US HIGHWAY 50 E, FERNLEY, NV, 89408-5611"
+    },
+    {
+      "name": "PIT RIVER CASINO",
+      "address": "20265 TAMARACK AVENUE, BURNEY, CA, 96013"
+    },
+    {
+      "name": "PLAINRIDGE PARK CASINO",
+      "address": "301 WASHINGTON ST, PLAINVILLE, MA, 02762-1314"
+    },
+    {
+      "name": "PLANET HOLLYWOOD RESORT AND CASINO",
+      "address": "3667 LAS VEGAS BLVD S, LAS VEGAS, NV, 89109-4331"
+    },
+    {
+      "name": "PLATINUM GAMING VENTURES, LLC",
+      "address": "500 NW 32ND ST, NEWCASTLE, OK, 73065-6351"
+    },
+    {
+      "name": "PLAYTIME CASINO HANOVER",
+      "address": "275 5TH ST, HANOVER, ON, N4N 3W6"
+    },
+    {
+      "name": "PLAZA HOTEL AND CASINO",
+      "address": "1 S MAIN ST, LAS VEGAS, NV, 89101-6370"
+    },
+    {
+      "name": "POINT PLACE CASINO",
+      "address": "5218 PATRICK RD, VERONA, NY, 13478-3012"
+    },
+    {
+      "name": "POTAWATOMI BINGO CASINO",
+      "address": "1721 W CANAL ST, MILWAUKEE, WI, 53233-2655"
+    },
+    {
+      "name": "POTAWATOMI CARTER CASINO HOTEL",
+      "address": "618 STATE HIGHWAY 32, WABENO, WI, 54566-9193"
+    },
+    {
+      "name": "PRAIRIE FLOWER CASINO",
+      "address": "1031 AVENUE H, CARTER LAKE, IA, 51510-1567"
+    },
+    {
+      "name": "PRAIRIE MEADOWS RACETRACK",
+      "address": "1 PRAIRIE MEADOWS DR, ALTOONA, IA, 50009-2100"
+    },
+    {
+      "name": "PRAIRIE MOON CASINO",
+      "address": "202 S EIGHT TRIBES TRL, MIAMI, OK, 74354-1004"
+    },
+    {
+      "name": "PRAIRIE WIND CASINO",
+      "address": "112 CASINO DR, PINE RIDGE, SD, 57770-3138"
+    },
+    {
+      "name": "PRAIRIES EDGE CASINO RESORT",
+      "address": "5616 PRAIRIES EDGE LN, GRANITE FALLS, MN, 56241-3679"
+    },
+    {
+      "name": "Q CASINO",
+      "address": "1855 GREYHOUND PARK RD, DUBUQUE, IA, 52001-2381"
+    },
+    {
+      "name": "QUECHAN CASINO RESORT",
+      "address": "525 ALGODONES RD, WINTERHAVEN, CA, 92283-9810"
+    },
+    {
+      "name": "RAIL CITY CASINO",
+      "address": "2121 VICTORIAN AVE, SPARKS, NV, 89431-4130"
+    },
+    {
+      "name": "RAILROAD PASS HOTEL AND CASINO",
+      "address": "1500 RAILROAD PASS CASINO RD, HENDERSON, NV, 89002-9774"
+    },
+    {
+      "name": "RAINBOW CLUB CASINO",
+      "address": "122 S WATER ST, HENDERSON, NV, 89015-7211"
+    },
+    {
+      "name": "RAMPART CASINO - LAS VEGAS",
+      "address": "221 N RAMPART BLVD, LAS VEGAS, NV, 89145-5722"
+    },
+    {
+      "name": "RCCL QUANTUM OF THE SEAS",
+      "address": "2935 W CORPORATE LAKES BLVD SUITE 100, WESTON, FL, 33331-3626"
+    },
+    {
+      "name": "RCCL UTOPIA OF THE SEAS",
+      "address": "2935 W CORPORATE LAKES BLVD SUITE 100, WESTON, FL, 33331-3626"
+    },
+    {
+      "name": "RCCL WONDER OF THE SEAS",
+      "address": "2935 W CORPORATE LAKES BLVD SUITE 100, WESTON, FL, 33331-3626"
+    },
+    {
+      "name": "RED EARTH CASINO",
+      "address": "3089 NORM NIVER RD, THERMAL, CA, 92274-6550"
+    },
+    {
+      "name": "RED HAWK CASINO",
+      "address": "1 RED HAWK PKWY, PLACERVILLE, CA, 95667-8639"
+    },
+    {
+      "name": "RED ROCK CASINO RESORT SPA",
+      "address": "11011 W CHARLESTON BLVD, LAS VEGAS, NV, 89135-1402"
+    },
+    {
+      "name": "RESORTS CASINO HOTEL",
+      "address": "1133 BOARDWALK, ATLANTIC CITY, NJ, 08401-7329"
+    },
+    {
+      "name": "RESORTS WORLD CATSKILLS",
+      "address": "888 RESORTS WORLD DR, MONTICELLO, NY, 12701-4185"
+    },
+    {
+      "name": "RESORTS WORLD LAS VEGAS, LLC",
+      "address": "3000 LAS VEGAS BLVD S, LAS VEGAS, NV, 89109-1932"
+    },
+    {
+      "name": "RHYTHM CITY CASINO",
+      "address": "7077 ELMORE AVE, DAVENPORT, IA, 52807-3636"
+    },
+    {
+      "name": "RIO HOTEL & CASINO - (NEW)",
+      "address": "3700 W FLAMINGO RD, LAS VEGAS, NV, 89103-4043"
+    },
+    {
+      "name": "RIVER BEND CASINO",
+      "address": "100 JACKPOT PL, WYANDOTTE, OK, 74370-2158"
+    },
+    {
+      "name": "RIVER CITY CASINO",
+      "address": "777 RIVER CITY CASINO BLVD, SAINT LOUIS, MO, 63125-1019"
+    },
+    {
+      "name": "RIVER CREE CASINO",
+      "address": "300 Lapotac Boulevard, Edmonton, AB, T7X 3Y3"
+    },
+    {
+      "name": "RIVER ROCK - BRITISH COLUMBIA",
+      "address": "74 WEST SEYMOUR STREET, KAMLOOPS, BC, V2C 1E2"
+    },
+    {
+      "name": "RIVER ROCK CASINO",
+      "address": "3250 HIGHWAY 128, GEYSERVILLE, CA, 95441-8908"
+    },
+    {
+      "name": "RIVER SPIRIT CASINO",
+      "address": "8330 RIVERSIDE PARKWAY, TULSA, OK, 74137"
+    },
+    {
+      "name": "RIVERS CASINO - IL",
+      "address": "3000 S RIVER RD, DES PLAINES, IL, 60018-4201"
+    },
+    {
+      "name": "RIVERS CASINO - PA",
+      "address": "777 CASINO DR, PITTSBURGH, PA, 15212-5840"
+    },
+    {
+      "name": "RIVERS CASINO PHILADELPHIA",
+      "address": "1001 N DELAWARE AVE, PHILADELPHIA, PA, 19125-4326"
+    },
+    {
+      "name": "RIVERS CASINO SCHENECTADY",
+      "address": "1 RUSH ST, SCHENECTADY, NY, 12305-1013"
+    },
+    {
+      "name": "RIVERS PORTSMOUTH",
+      "address": "3700 VICTORY BLVD, PORTSMOUTH, VA, 23701-3444"
+    },
+    {
+      "name": "RIVERSIDE RESORT  CASINO",
+      "address": "1650 S CASINO DR, LAUGHLIN, NV, 89029-1512"
+    },
+    {
+      "name": "RIVERWALK CASINO",
+      "address": "1046 WARRENTON RD, VICKSBURG, MS, 39180-5994"
+    },
+    {
+      "name": "ROCK AND BREWS CASINO",
+      "address": "9525 N HIGHWAY 177, BRAMAN, OK, 74632-9177"
+    },
+    {
+      "name": "ROCKY GAP CASINO RESORT",
+      "address": "16701 LAKEVIEW RD NE, FLINTSTONE, MD, 21530-1059"
+    },
+    {
+      "name": "ROLLING HILLS CASINO",
+      "address": "2655 EVERETT FREEMAN WAY, CORNING, CA, 96021"
+    },
+    {
+      "name": "ROSEBUD CASINO",
+      "address": "PO BOX 135, VALENTINE, NE, 69201-0135"
+    },
+    {
+      "name": "ROUTE 66 CASINO",
+      "address": "14500 CENTRAL AVE SW, ALBUQUERQUE, NM, 87121-1450"
+    },
+    {
+      "name": "ROYAL RIVER CASINO, BINGO AND HOTEL",
+      "address": "607 S VETERANS ST, FLANDREAU, SD, 57028-1416"
+    },
+    {
+      "name": "SAC AND FOX CASINO",
+      "address": "1322 US HIGHWAY 75, POWHATTAN, KS, 66527-9624"
+    },
+    {
+      "name": "SADDLE WEST HOTEL, CASINO & RV RESORT",
+      "address": "1220 S NEVADA HIGHWAY 160, PAHRUMP, NV, 89048-4710"
+    },
+    {
+      "name": "SAGANING EAGLES LANDING CASINO & HOTEL",
+      "address": "2690 WORTH RD, STANDISH, MI, 48658-9789"
+    },
+    {
+      "name": "SAHARA LAS VEGAS",
+      "address": "2535 LAS VEGAS BLVD S, LAS VEGAS, NV, 89109-1137"
+    },
+    {
+      "name": "SALON DE JEUX DE QUEBEC",
+      "address": "500 SHERBROOKE ST W, MONTREAL, QC, H3A 3C6"
+    },
+    {
+      "name": "SALON DE JEUX TROIS-RIVIERES",
+      "address": "1900 DES FORGES BLVD, TROIS-RIVIERES, QC, G8Z 0A3"
+    },
+    {
+      "name": "SAMS TOWN - LAS VEGAS",
+      "address": "5111 BOULDER HWY, LAS VEGAS, NV, 89122-6001"
+    },
+    {
+      "name": "SAN MANUEL ENTERTAINMENT AUTHORITY DBA YAAMAVA RESORT CASINO AT SAN MANUEL",
+      "address": "777 SAN MANUEL BLVD, HIGHLAND, CA, 92346-6713"
+    },
+    {
+      "name": "SANDIA RESORT & CASINO",
+      "address": "30 RAINBOW RD NE, ALBUQUERQUE, NM, 87113-2156"
+    },
+    {
+      "name": "SANTA ANA STAR CASINO HOTEL",
+      "address": "54 JEMEZ DAM RD, BERNALILLO, NM, 87004-5985"
+    },
+    {
+      "name": "SANTA CLARAN HOTEL AND CASINO",
+      "address": "419 N RIVERSIDE DR, ESPANOLA, NM, 87532-3470"
+    },
+    {
+      "name": "SANTA FE HOTEL AND CASINO",
+      "address": "4949 N RANCHO DR, LAS VEGAS, NV, 89130-3505"
+    },
+    {
+      "name": "SANTAN MOUNTAIN",
+      "address": "7101 S Gilbert Rd, Chandler, AZ, 85249"
+    },
+    {
+      "name": "SARACEN CASINO RESORT",
+      "address": "1 SARACEN RESORT DRIVE, PINE BLUFF, AR, 71601"
+    },
+    {
+      "name": "SASQUATCH CASINO",
+      "address": "125 GREGORY ST, BLACK HAWK, CO, 80422-5016"
+    },
+    {
+      "name": "SCARLET PEARL CASINO RESORT",
+      "address": "9380 CENTRAL AVE, DIBERVILLE, MS, 39540-5302"
+    },
+    {
+      "name": "SCIOTO DOWNS",
+      "address": "6000 SOUTH HIGH STREET, COLUMBUS, OH, 43207"
+    },
+    {
+      "name": "SEMINOLE CLASSIC CASINO - HOLLYWOOD",
+      "address": "4150 N STATE ROAD 7, HOLLYWOOD, FL, 33021-1509"
+    },
+    {
+      "name": "SEMINOLE HARD ROCK HOTEL & CASINO - HOLLYWOOD",
+      "address": "1 SEMINOLE WAY, FORT LAUDERDALE, FL, 33314-6407"
+    },
+    {
+      "name": "SEMINOLE HARD ROCK HOTEL & CASINO - TAMPA",
+      "address": "5223 ORIENT RD, TAMPA, FL, 33610-4114"
+    },
+    {
+      "name": "SEMINOLE INDIAN CASINO - COCONUT CREEK",
+      "address": "5550 NW 40TH ST, COCONUT CREEK, FL, 33073-3818"
+    },
+    {
+      "name": "SEMINOLE INDIAN CASINO - IMMOKALEE",
+      "address": "506 S 1ST ST, IMMOKALEE, FL, 34142-4302"
+    },
+    {
+      "name": "SENECA ALLEGANY CASINO",
+      "address": "777 SENECA ALLEGANY BLVD, SALAMANCA, NY, 14779-1377"
+    },
+    {
+      "name": "SENECA BUFFALO CREEK CASINO",
+      "address": "1 FULTON ST, BUFFALO, NY, 14204-2248"
+    },
+    {
+      "name": "SENECA NIAGARA FALLS GAMING CORPORATION",
+      "address": "310 4TH ST, NIAGARA FALLS, NY, 14303-1242"
+    },
+    {
+      "name": "SEVEN CLANS - RED LAKE",
+      "address": "10200 HIGHWAY 89, REDLAKE, MN, 56671-2500"
+    },
+    {
+      "name": "SEVEN CLANS - THIEF RIVER FALLS",
+      "address": "20595 CENTER ST E, THIEF RIVER FALLS, MN, 56701-8016"
+    },
+    {
+      "name": "SEVEN CLANS - WARROAD",
+      "address": "HIGHWAY 1, RED LAKE, MN, 56671-9022"
+    },
+    {
+      "name": "SEVEN FEATHERS HOTEL CASINO",
+      "address": "146 CHIEF MIWALETA LN, CANYONVILLE, OR, 97417-9700"
+    },
+    {
+      "name": "SHOOTING STAR CASINO",
+      "address": "777 CASINO RD., MAHNOMEN, MN, 56557"
+    },
+    {
+      "name": "SHOSHONE-BANNOCK HIGH STAKES BINGO AND CASINO",
+      "address": "777 BANNOCK TRAIL, FORT HALL, ID, 83203"
+    },
+    {
+      "name": "SILVER LEGACY RESORT CASINO",
+      "address": "407 N VIRGINIA ST, RENO, NV, 89501-1138"
+    },
+    {
+      "name": "SILVER SEVENS HOTEL AND CASINO",
+      "address": "4100 PARADISE RD, LAS VEGAS, NV, 89169-6528"
+    },
+    {
+      "name": "SILVER SLIPPER CASINO",
+      "address": "5000 S BEACH BLVD, BAY SAINT LOUIS, MS, 39520-9775"
+    },
+    {
+      "name": "SILVER STAR HOTEL & CASINO",
+      "address": "13541 HIGHWAY 16 WEST, CHOCTAW, MS, 39350"
+    },
+    {
+      "name": "SILVER STRIKE CASINO",
+      "address": "1190 US HIGHWAY 50, SILVER SPRINGS, NV, 89429-9470"
+    },
+    {
+      "name": "SILVERADO GAMING COMPLEX",
+      "address": "709 MAIN ST, DEADWOOD, SD, 57732-1011"
+    },
+    {
+      "name": "SILVERTON CASINO",
+      "address": "3333 BLUE DIAMOND RD, LAS VEGAS, NV, 89139-7888"
+    },
+    {
+      "name": "SKY CITY CASINO",
+      "address": "7 SKY CITY DRIVE, ACOMA, NM, 87034-0310"
+    },
+    {
+      "name": "SKY RIVER CASINO",
+      "address": "1 SKY RIVER PKWY, ELK GROVE, CA, 95757-9402"
+    },
+    {
+      "name": "SOARING EAGLE CASINO & RESORT",
+      "address": "2710 MAKWA RD, MT PLEASANT, MI, 48858-8408"
+    },
+    {
+      "name": "SOBOBA CASINO RESORT",
+      "address": "22777 SOBOBA RD, SAN JACINTO, CA, 92583-2935"
+    },
+    {
+      "name": "SOUTH BEACH CASINO",
+      "address": "1 OCEAN DRIVE, SCANTERBURY, MB, R0E 1W0"
+    },
+    {
+      "name": "SOUTH POINT HOTEL AND CASINO",
+      "address": "9777 LAS VEGAS BLVD S, LAS VEGAS, NV, 89183-4013"
+    },
+    {
+      "name": "SOUTHLAND PARK",
+      "address": "1550 INGRAM BLVD, WEST MEMPHIS, AR, 72301-2234"
+    },
+    {
+      "name": "SPIRIT MOUNTAIN CASINO - OR",
+      "address": "27100 SALMON RIVER HWY, GRAND RONDE, OR, 97347-9753"
+    },
+    {
+      "name": "SPOTLIGHT 29 CASINO",
+      "address": "46200 HARRISON PL, COACHELLA, CA, 92236-2031"
+    },
+    {
+      "name": "ST. CROIX CASINO - TURTLE LAKE",
+      "address": "777 US HIGHWAY 8 63, TURTLE LAKE, WI, 54889-9188"
+    },
+    {
+      "name": "ST. JO FRONTIER CASINO",
+      "address": "777 WINNERS CIR, SAINT JOSEPH, MO, 64505-2360"
+    },
+    {
+      "name": "STARLIGHT - BRITISH COLUMBIA",
+      "address": "350 Gifford St, New Westminster, BC, V3M 7A3"
+    },
+    {
+      "name": "STARLIGHT CASINO EDMONTON",
+      "address": "8882 170TH ST NW 2710-2716, EDMONTON, AB, T5T 4J2"
+    },
+    {
+      "name": "STARLIGHT CASINO POINT EDWARD",
+      "address": "3750 LAIRD RD UNIT 10 & 11, MISSISSAUGA, ON, L5L 0A6"
+    },
+    {
+      "name": "STRATOSPHERE",
+      "address": "2000 LAS VEGAS BLVD S, LAS VEGAS, NV, 89104-2507"
+    },
+    {
+      "name": "SUGAR CREEK CASINO",
+      "address": "5304 N BROADWAY AVE, HINTON, OK, 73047-9371"
+    },
+    {
+      "name": "SUNCOAST RESORT AND CASINO",
+      "address": "9090 ALTA DR, LAS VEGAS, NV, 89145-8508"
+    },
+    {
+      "name": "SUNSET STATION HOTEL & CASINO",
+      "address": "1301 W SUNSET RD, HENDERSON, NV, 89014-6607"
+    },
+    {
+      "name": "SYCUAN CASINO",
+      "address": "5469 CASINO WAY, EL CAJON, CA, 92019-1823"
+    },
+    {
+      "name": "TABLE MOUNTAIN CASINO",
+      "address": "8184 TABLE MOUNTAIN ROAD, FRIANT, CA, 93626-0445"
+    },
+    {
+      "name": "TACHI PALACE HOTEL AND CASINO",
+      "address": "17225 JERSEY AVE, LEMOORE, CA, 93245-9760"
+    },
+    {
+      "name": "TALKING STICK RESORT",
+      "address": "9800 E TALKING STICK WAY, SCOTTSDALE, AZ, 85256-2700"
+    },
+    {
+      "name": "TALKING STICK RESORT",
+      "address": "9800 E TALKING STICK WAY, SCOTTSDALE, AZ, 85256-2700"
+    },
+    {
+      "name": "TEJON GAMING AUTHORITY",
+      "address": "1777 GARONE FARM ROAD, METTLER, CA, 93313"
+    },
+    {
+      "name": "TERRE HAUTE CASINO RESORT",
+      "address": "4500 E MARGARET DR, TERRE HAUTE, IN, 47803-9303"
+    },
+    {
+      "name": "TERRIBLES CASINO SEARCHLIGHT",
+      "address": "670 S US HWY 95, SEARCHLIGHT, NV, 89046-1370"
+    },
+    {
+      "name": "TERRIBLES FERNLEY CASINO",
+      "address": "480 TRUCK INN WAY, FERNLEY, NV, 89408-8701"
+    },
+    {
+      "name": "TERRIBLES ROAD HOUSE - PAHRUMP",
+      "address": "1750 PAHRUMP VALLEY BLVD, PAHRUMP, NV, 89048-5615"
+    },
+    {
+      "name": "TESUQUE CASINO",
+      "address": "7 TESUQUE RD, SANTA FE, NM, 87506-0275"
+    },
+    {
+      "name": "THE BIG EASY CASINO",
+      "address": "831 N FEDERAL HWY, HALLANDALE BEACH, FL, 33009-2410"
+    },
+    {
+      "name": "THE BLACK HAWK CASINO",
+      "address": "42008 WESTECH RD, SHAWNEE, OK, 74804-9536"
+    },
+    {
+      "name": "THE COSMOPOLITAN LAS VEGAS",
+      "address": "3708 LAS VEGAS BLVD S, LAS VEGAS, NV, 89109-4309"
+    },
+    {
+      "name": "THE CROMWELL LAS VEGAS",
+      "address": "3595 LAS VEGAS BLVD S, LAS VEGAS, NV, 89109-8918"
+    },
+    {
+      "name": "THE D LAS VEGAS",
+      "address": "301 FREMONT ST, LAS VEGAS, NV, 89101-5600"
+    },
+    {
+      "name": "THE LINQ HOTEL AND CASINO",
+      "address": "3535 LAS VEGAS BLVD S, LAS VEGAS, NV, 89109-8921"
+    },
+    {
+      "name": "THE LODGE AT DEADWOOD",
+      "address": "100 PINE CREST LN, DEADWOOD, SD, 57732-7372"
+    },
+    {
+      "name": "THE LODGE CASINO",
+      "address": "240 MAIN STREET, BLACK HAWK, CO, 80422"
+    },
+    {
+      "name": "THE ORLEANS HOTEL AND CASINO",
+      "address": "4500 W TROPICANA AVE, LAS VEGAS, NV, 89103-5420"
+    },
+    {
+      "name": "THE PASS AT WATER STREET",
+      "address": "140 S WATER ST, HENDERSON, NV, 89015-7211"
+    },
+    {
+      "name": "THE QUEEN BATON ROUGE",
+      "address": "1717 RIVER RD N, BATON ROUGE, LA, 70802-5134"
+    },
+    {
+      "name": "THE STABLES CASINO",
+      "address": "530 H ST SE, MIAMI, OK, 74354-7900"
+    },
+    {
+      "name": "THREE RIVERS CASINO",
+      "address": "5647 HIGHWAY 126, FLORENCE, OR, 97439-9200"
+    },
+    {
+      "name": "THUNDER VALLEY CASINO RESORT",
+      "address": "1200 ATHENS AVE, LINCOLN, CA, 95648-9328"
+    },
+    {
+      "name": "THUNDERBIRD CASINO NORMAN",
+      "address": "2025 GORDON COOPER DR, SHAWNEE, OK, 74801-9005"
+    },
+    {
+      "name": "THUNDERBIRD SHAWNEE CASINO",
+      "address": "2051 GORDON COOPER DR, SHAWNEE, OK, 74801-9005"
+    },
+    {
+      "name": "TIN LIZZIE",
+      "address": "555 MAIN ST, DEADWOOD, SD, 57732-1105"
+    },
+    {
+      "name": "TIOGA DOWNS RACETRACK LLC",
+      "address": "2384 W RIVER RD, NICHOLS, NY, 13812-1406"
+    },
+    {
+      "name": "TONKAWA INDIAN CASINO WEST",
+      "address": "16601 W SOUTH AVE, TONKAWA, OK, 74653-4707"
+    },
+    {
+      "name": "TORTOISE ROCK CASINO",
+      "address": "73829 BASELINE RD, TWENTYNINE PALMS, CA, 92277-4125"
+    },
+    {
+      "name": "TREASURE BAY CASINO RESORT",
+      "address": "1980 BEACH BLVD, BILOXI, MS, 39531-5214"
+    },
+    {
+      "name": "TREASURE CHEST CASINO",
+      "address": "4540 WILLIAMS BLVD, KENNER, LA, 70065-1450"
+    },
+    {
+      "name": "TREASURE ISLAND LAS VEGAS",
+      "address": "3300 LAS VEGAS BLVD S, LAS VEGAS, NV, 89109-8916"
+    },
+    {
+      "name": "TREASURE ISLAND RESORT  CASINO",
+      "address": "5734 STURGEON LAKE RD, WELCH, MN, 55089-9647"
+    },
+    {
+      "name": "TROP CASINO GREENVILLE",
+      "address": "199 N. LAKE FRONT ROAD, GREENVILLE, MS, 38701-4003"
+    },
+    {
+      "name": "TROPICANA ATLANTIC CITY",
+      "address": "ATTN: WAREHOUSE CENTURY AND CANALE DRIVE, EGG HARBOR TOWNSHIP, NJ, 08234"
+    },
+    {
+      "name": "TROPICANA LAUGHLIN",
+      "address": "2121 S CASINO DR, LAUGHLIN, NV, 89029-1519"
+    },
+    {
+      "name": "TURNING STONE RESORT CASINO",
+      "address": "5218 PATRICK RD, VERONA, NY, 13478-3012"
+    },
+    {
+      "name": "TURTLE CREEK CASINO",
+      "address": "7741 M 72 E, WILLIAMSBURG, MI, 49690-9395"
+    },
+    {
+      "name": "TUSCANY SUITES & CASINO",
+      "address": "255 E FLAMINGO RD, LAS VEGAS, NV, 89169-4708"
+    },
+    {
+      "name": "TWIN PINE CASINO",
+      "address": "22223 HIGHWAY 29 RANCHERIA ROAD, MIDDLETOWN, CA, 95461-0789"
+    },
+    {
+      "name": "UTE MOUNTAIN CASINO",
+      "address": "3 WEEMINUCHE DR, TOWAOC, CO, 81334-5088"
+    },
+    {
+      "name": "VALIANT LADY",
+      "address": "1000 S PINE ISLAND RD, PLANTATION, FL, 33324-3906"
+    },
+    {
+      "name": "VALLEY FORGE CASINO",
+      "address": "1160 1ST AVE, KING OF PRUSSIA, PA, 19406-1355"
+    },
+    {
+      "name": "VALLEY VIEW CASINO & HOTEL",
+      "address": "16300 NYEMII PASS RD, VALLEY CENTER, CA, 92082-6769"
+    },
+    {
+      "name": "VEE QUIVA CASINO",
+      "address": "6443 S KOMATKE LN, LAVEEN, AZ, 85339-3367"
+    },
+    {
+      "name": "VIEJAS CASINO",
+      "address": "5000 WILLOWS RD, ALPINE, CA, 91901-1656"
+    },
+    {
+      "name": "VIRGIN CRUISES INTERMEDIATE LIMITED",
+      "address": "1000 S PINE ISLAND RD STE 600, PLANTATION, FL, 33324-3919"
+    },
+    {
+      "name": "Virgin Hotel LV",
+      "address": "4455 PARADISE RD, LAS VEGAS, NV, 89169-6574"
+    },
+    {
+      "name": "VIRGIN RIVER HOTEL CASINO BINGO",
+      "address": "100 E PIONEER BLVD, MESQUITE, NV, 89027-4929"
+    },
+    {
+      "name": "WALKERS BLUFF CASINO RESORT, LLC",
+      "address": "777 WALKERS BLUFF WAY, CARTERVILLE, IL, 62918-2514"
+    },
+    {
+      "name": "WANAAHA CASINO",
+      "address": "2742 N SIERRA HWY, BISHOP, CA, 93514-2218"
+    },
+    {
+      "name": "WARHORSE  LINCOLN",
+      "address": "7055 S 1ST ST, LINCOLN, NE, 68512-1000"
+    },
+    {
+      "name": "WARHORSE OMAHA",
+      "address": "818 ST AUGUSTINES DR, WINNEBAGO, NE, 68071-5167"
+    },
+    {
+      "name": "WATERVIEW CASINO & HOTEL",
+      "address": "3990 WASHINGTON ST, VICKSBURG, MS, 39180-5276"
+    },
+    {
+      "name": "WESTGATE LAS VEGAS RESORT & CASINO",
+      "address": "3000 PARADISE RD, LAS VEGAS, NV, 89109-1287"
+    },
+    {
+      "name": "WHEELING ISLAND RACETRACK AND GAMING CENTER",
+      "address": "1 S STONE ST, WHEELING, WV, 26003-2062"
+    },
+    {
+      "name": "WHITE OAK CASINO",
+      "address": "45830 US HIGHWAY 2, DEER RIVER, MN, 56636-2370"
+    },
+    {
+      "name": "WILD HORSE PASS CASINO",
+      "address": "5040 W WILDHORSE PASS BLVD, CHANDLER, AZ, 85226-5404"
+    },
+    {
+      "name": "WILD ROSE CASINO",
+      "address": "777 MAIN ST, EMMETSBURG, IA, 50536-1666"
+    },
+    {
+      "name": "WILD ROSE CLINTON",
+      "address": "777 WILD ROSE DR, CLINTON, IA, 52732-7700"
+    },
+    {
+      "name": "WILDFIRE CASINO - BOULDER",
+      "address": "2000 S BOULDER HWY, HENDERSON, NV, 89002-8529"
+    },
+    {
+      "name": "WILDFIRE CASINO - RANCHO",
+      "address": "4451 E SUNSET RD SUITE 1, HENDERSON, NV, 89014-0275"
+    },
+    {
+      "name": "WILDFIRE CASINO AND LANES",
+      "address": "4451 E SUNSET RD STE 1, HENDERSON, NV, 89014-2244"
+    },
+    {
+      "name": "WILDFIRE FREMONT",
+      "address": "2700 East Fremont Street, Las Vegas, NV, 89104"
+    },
+    {
+      "name": "WILDFIRE LAKE MEAD",
+      "address": "846 E LAKE MEAD PKWY, HENDERSON, NV, 89015-5558"
+    },
+    {
+      "name": "WILDFIRE SUNSET",
+      "address": "1195 W SUNSET RD, HENDERSON, NV, 89014-6601"
+    },
+    {
+      "name": "WILDHORSE RESORT AND CASINO",
+      "address": "46510 WILDHORSE BLVD, PENDLETON, OR, 97801-6043"
+    },
+    {
+      "name": "WIN-RIVER CASINO",
+      "address": "2100 REDDING RANCHERIA RD, REDDING, CA, 96001-5530"
+    },
+    {
+      "name": "WIND CREEK BETHLEHEM",
+      "address": "77 SANDS BLVD, BETHLEHEM, PA, 18015-7705"
+    },
+    {
+      "name": "WIND CREEK IL, LLC",
+      "address": "17300 HALSTED ST, EAST HAZEL CREST, IL, 60429"
+    },
+    {
+      "name": "WINNAVEGAS CASINO",
+      "address": "1500 330TH ST, SLOAN, IA, 51055-8056"
+    },
+    {
+      "name": "WINSTAR CASINO",
+      "address": "129 W ONEIDA, WYANDOTTE, OK, 74370-3135"
+    },
+    {
+      "name": "WOODLANDS FAYETTE, LLC D/B/A THE CASINO AT NEMACOLIN",
+      "address": "4067 NATIONAL PIKE, FARMINGTON, PA, 15437-1332"
+    },
+    {
+      "name": "WYNN LAS VEGAS, LLC",
+      "address": "3121 LAS VEGAS BLVD S, LAS VEGAS, NV, 89109-1967"
+    },
+    {
+      "name": "YBR CASINO & SPORTS BOOK",
+      "address": "800 W GENESEE ST, CHITTENANGO, NY, 13037-1083"
+    }
+  ]
+}
