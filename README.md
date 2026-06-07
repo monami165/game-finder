@@ -6,21 +6,42 @@ Scrapes [Aristocrat Gaming's "Where to Play"](https://www.aristocratgaming.com/u
 
 ## Requirements
 
-- Python 3.8+ (must be on your PATH — download from [python.org](https://www.python.org/downloads/))
+- Python 3.8+
+
+### Installing Python
+
+**Windows**
+1. Go to [python.org/downloads](https://www.python.org/downloads/)
+2. Download and run the installer
+3. ⚠️ On the first screen, check **"Add Python to PATH"** before clicking Install
+
+**Mac**
+Option A — Python website (recommended for beginners):
+1. Go to [python.org/downloads](https://www.python.org/downloads/)
+2. Download and run the `.pkg` installer
+
+Option B — Homebrew (recommended if you already use Homebrew):
+```bash
+brew install python
+```
 
 ---
 
 ## Getting Started
 
+### Windows
 1. Clone this repo
 2. Double-click **`start.bat`**
 
-That's it. On first launch, `start.bat` automatically:
-- Creates a virtual environment
-- Installs all dependencies
-- Downloads the Playwright browser (Chromium)
+### Mac
+1. Clone this repo
+2. Open Terminal and make the script executable (one-time step):
+   ```bash
+   chmod +x start.command
+   ```
+3. Double-click **`start.command`**
 
-On every subsequent launch it skips setup and goes straight to the menu.
+> On first launch, the script automatically creates a virtual environment, installs all dependencies, and downloads the Playwright browser (Chromium). On every subsequent launch it skips setup and goes straight to the menu.
 
 ---
 
