@@ -1,122 +1,91 @@
 """
-Compare two snapshots to identify new and removed casino installations.
+Manually compare two saved snapshot files and report location differences.
 
 Usage:
-    python compare.py data/GG382_2026-05-31_10-00-00.json data/GG382_2026-06-07_10-00-00.json
+    python compare.py data\\GG382_2026-05-31_10-00-00.json data\\GG382_2026-06-07_10-00-00.json
+
+Prints the diff and also saves a copy to compare\\.
 """
 
 import json
-import sys
 import os
+import sys
 from datetime import datetime
 
-
-def load_snapshot(path: str) -> dict:
-    with open(path, encoding="utf-8") as f:
-        return json.load(f)
+SCRIPT_DIR = os.path.dirname(__file__)
+COMPARE_DIR = os.path.join(SCRIPT_DIR, "compare")
 
 
-def compare_snapshots(path_a: str, path_b: str) -> dict:
-    """
-    Compare two snapshot files. Returns a dict with:
-        new_installations  - locations in B but not in A (newly added)
-        removed            - locations in A but not in B (no longer listed)
-        unchanged          - locations in both
-    Locations are matched by (name, address) pair.
-    """
-    snap_a = load_snapshot(path_a)
-    snap_b = load_snapshot(path_b)
+def diff_locations(old_locations: list[dict], new_locations: list[dict]) -> dict:
+    """Return {'added': [...], 'removed': [...]} comparing by (name, address)."""
+    old_set = {(l["name"], l["address"]) for l in old_locations}
+    new_set = {(l["name"], l["address"]) for l in new_locations}
 
-    def key(loc):
-        return (loc["name"].strip().upper(), loc["address"].strip().upper())
-
-    set_a = {key(loc): loc for loc in snap_a["locations"]}
-    set_b = {key(loc): loc for loc in snap_b["locations"]}
-
-    keys_a = set(set_a)
-    keys_b = set(set_b)
-
-    new_installations = sorted([set_b[k] for k in keys_b - keys_a], key=lambda x: x["name"])
-    removed = sorted([set_a[k] for k in keys_a - keys_b], key=lambda x: x["name"])
-    unchanged = sorted([set_b[k] for k in keys_a & keys_b], key=lambda x: x["name"])
-
-    return {
-        "game_id": snap_b.get("game_id", snap_a.get("game_id")),
-        "game_title": snap_b.get("game_title", snap_a.get("game_title")),
-        "snapshot_a": {"file": os.path.basename(path_a), "scraped_at": snap_a.get("scraped_at"), "total": len(snap_a["locations"])},
-        "snapshot_b": {"file": os.path.basename(path_b), "scraped_at": snap_b.get("scraped_at"), "total": len(snap_b["locations"])},
-        "new_installations": new_installations,
-        "removed": removed,
-        "unchanged": unchanged,
-    }
+    added = sorted(
+        [{"name": n, "address": a} for (n, a) in (new_set - old_set)],
+        key=lambda x: x["name"] or "",
+    )
+    removed = sorted(
+        [{"name": n, "address": a} for (n, a) in (old_set - new_set)],
+        key=lambda x: x["name"] or "",
+    )
+    return {"added": added, "removed": removed}
 
 
-COMPARE_DIR = os.path.join(os.path.dirname(__file__), "compare")
+def main():
+    if len(sys.argv) != 3:
+        print("Usage: python compare.py <older_snapshot.json> <newer_snapshot.json>")
+        sys.exit(1)
 
+    old_path, new_path = sys.argv[1], sys.argv[2]
 
-def build_report_lines(result: dict) -> list[str]:
-    game = f"{result['game_title']} ({result['game_id']})"
-    a = result["snapshot_a"]
-    b = result["snapshot_b"]
-    new = result["new_installations"]
-    removed = result["removed"]
+    with open(old_path, "r", encoding="utf-8") as f:
+        old_snapshot = json.load(f)
+    with open(new_path, "r", encoding="utf-8") as f:
+        new_snapshot = json.load(f)
+
+    old_title = old_snapshot.get("game_title", "?")
+    old_id = old_snapshot.get("game_id", "?")
+    new_title = new_snapshot.get("game_title", "?")
+    new_id = new_snapshot.get("game_id", "?")
+
+    if old_id != new_id:
+        print(
+            f"WARNING: snapshots are for different games "
+            f"({old_title} [{old_id}] vs {new_title} [{new_id}]). Comparing anyway."
+        )
+
+    diff = diff_locations(old_snapshot.get("locations", []), new_snapshot.get("locations", []))
 
     lines = []
-    lines.append(f"\n{'='*70}")
-    lines.append(f"  Comparison Report: {game}")
-    lines.append(f"{'='*70}")
-    lines.append(f"  Older snapshot : {a['file']}  ({a['scraped_at']})  — {a['total']} locations")
-    lines.append(f"  Newer snapshot : {b['file']}  ({b['scraped_at']})  — {b['total']} locations")
-    lines.append(f"{'='*70}\n")
-
-    if new:
-        lines.append(f"NEW INSTALLATIONS ({len(new)}):")
-        lines.append(f"  {'Casino Name':<55} Address")
-        lines.append(f"  {'-'*110}")
-        for loc in new:
-            lines.append(f"  {loc['name']:<55} {loc['address']}")
-    else:
-        lines.append("NEW INSTALLATIONS: none")
-
+    lines.append(f"Comparing snapshots for {new_title} ({new_id})")
+    lines.append(f"  Older: {old_path}  ({old_snapshot.get('scraped_at', '?')})")
+    lines.append(f"  Newer: {new_path}  ({new_snapshot.get('scraped_at', '?')})")
     lines.append("")
 
-    if removed:
-        lines.append(f"REMOVED ({len(removed)}):")
-        lines.append(f"  {'Casino Name':<55} Address")
-        lines.append(f"  {'-'*110}")
-        for loc in removed:
-            lines.append(f"  {loc['name']:<55} {loc['address']}")
+    if not diff["added"] and not diff["removed"]:
+        lines.append("No changes.")
     else:
-        lines.append("REMOVED: none")
+        if diff["added"]:
+            lines.append(f"Added ({len(diff['added'])}):")
+            for loc in diff["added"]:
+                lines.append(f"  + {loc['name']} — {loc['address']}")
+        if diff["removed"]:
+            lines.append(f"Removed ({len(diff['removed'])}):")
+            for loc in diff["removed"]:
+                lines.append(f"  - {loc['name']} — {loc['address']}")
 
-    lines.append(f"\nUNCHANGED: {len(result['unchanged'])} locations\n")
-    return lines
-
-
-def print_report(result: dict):
-    lines = build_report_lines(result)
-    for line in lines:
-        print(line)
+    output = "\n".join(lines)
+    print(output)
 
     os.makedirs(COMPARE_DIR, exist_ok=True)
-    safe_id = result["game_id"].replace("-", "")
     timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-    filename = os.path.join(COMPARE_DIR, f"{safe_id}_compare_{timestamp}.txt")
-    with open(filename, "w", encoding="utf-8") as f:
-        f.write("\n".join(lines))
-    print(f"Report saved to: {filename}")
+    safe_id = new_id.replace("-", "")
+    out_path = os.path.join(COMPARE_DIR, f"compare_{safe_id}_{timestamp}.txt")
+    with open(out_path, "w", encoding="utf-8") as f:
+        f.write(output)
+    print(f"\nSaved to: {out_path}")
 
 
 if __name__ == "__main__":
-    if len(sys.argv) != 3:
-        print("Usage: python compare.py <snapshot_a.json> <snapshot_b.json>")
-        print("\nAvailable snapshots in data/:")
-        data_dir = os.path.join(os.path.dirname(__file__), "data")
-        if os.path.isdir(data_dir):
-            for f in sorted(os.listdir(data_dir)):
-                if f.endswith(".json"):
-                    print(f"  data/{f}")
-        sys.exit(1)
-
-    result = compare_snapshots(sys.argv[1], sys.argv[2])
-    print_report(result)
+    main()
