@@ -3,7 +3,7 @@ title Aristocrat Game Finder
 
 :: ── Setup (only runs on first launch) ────────────────────────────────────────
 if not exist ".venv\Scripts\activate.bat" (
-    echo Setting up for the first time. This may take a few minutes...
+    echo Setting up for the first time. This may take a moment...
     echo.
 
     python --version >nul 2>&1
@@ -23,7 +23,6 @@ if not exist ".venv\Scripts\activate.bat" (
 
     call .venv\Scripts\activate.bat
     pip install -r requirements.txt --quiet
-    playwright install chromium
     echo.
     echo Setup complete!
 ) else (
@@ -39,17 +38,19 @@ echo   Aristocrat Gaming - Game Finder
 echo  ===========================================
 echo.
 echo   1. Create location list for a game
-echo   2. Compare two snapshots
-echo   3. Exit
+echo   2. Check watchlist (games_list.json)
+echo   3. Compare two snapshots
+echo   4. Exit
 echo.
 echo  ===========================================
 echo.
-set /p choice= Select an option (1, 2, or 3):
+set /p choice= Select an option (1, 2, 3, or 4):
 
 if "%choice%"=="1" goto create_list
-if "%choice%"=="2" goto compare
-if "%choice%"=="3" goto end
-echo   Invalid option. Please enter 1, 2, or 3.
+if "%choice%"=="2" goto watchlist
+if "%choice%"=="3" goto compare
+if "%choice%"=="4" goto end
+echo   Invalid option. Please enter 1, 2, 3, or 4.
 timeout /t 2 >nul
 goto menu
 
@@ -75,7 +76,27 @@ pause
 goto menu
 
 
-:: ── Option 2: Compare snapshots ───────────────────────────────────────────────
+:: ── Option 2: Check watchlist ─────────────────────────────────────────────────
+:watchlist
+cls
+echo.
+echo  ===========================================
+echo   Watchlist Check
+echo  ===========================================
+echo.
+echo   Checking every game in games_list.json...
+echo   A snapshot will be saved for each game, and any changes
+echo   since the last check will be written to compare\
+echo.
+python scraper.py --watchlist
+echo.
+echo   Tip: edit games_list.json in a text editor to add or remove games.
+echo.
+pause
+goto menu
+
+
+:: ── Option 3: Compare snapshots ───────────────────────────────────────────────
 :compare
 cls
 echo.
@@ -85,7 +106,7 @@ echo  ===========================================
 echo.
 
 if not exist "data\" (
-    echo   No snapshots found. Run option 1 first to generate a list.
+    echo   No snapshots found. Run option 1 or 2 first to generate one.
     echo.
     pause
     goto menu
@@ -122,6 +143,8 @@ if not exist "%file_b%" (
 
 echo.
 python compare.py "%file_a%" "%file_b%"
+echo.
+echo   Result saved to the compare\ folder.
 echo.
 pause
 goto menu

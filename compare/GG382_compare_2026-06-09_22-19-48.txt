@@ -1,0 +1,58 @@
+
+======================================================================
+  Comparison Report: Lightning 10 Year Storm (GG-382)
+======================================================================
+  Older snapshot : GG382_2026-05-31_21-05-17.json  (2026-05-31T21:05:17.613421)  — 159 locations
+  Newer snapshot : GG382_2026-06-09_22-17-46.json  (2026-06-09T22:17:46.055901)  — 190 locations
+======================================================================
+
+NEW INSTALLATIONS (36):
+  Casino Name                                             Address
+  --------------------------------------------------------------------------------------------------------------
+  BOOMTOWN NEW ORLEANS                                    4132 PETERS RD, HARVEY, LA, 70058-1805
+  CHUKCHANSI GOLD RESORT & CASINO                         711 LUCKY LN, COARSEGOLD, CA, 93614-8206
+  CREEK NATION CASINO DUCK CREEK                          10085 FERGUSON ROAD, BEGGS, OK, 74421
+  CREEK NATION CASINO OKEMAH                              1100 S WOODY GUTHRIE ST, OKEMAH, OK, 74859
+  DAKOTA CONNECTION CASINO & BINGO                        46102 SOUTH DAKOTA HIGHWAY 10, SISSETON, SD, 57262
+  DAKOTA MAGIC                                            16849 102ND ST SE, HANKINSON, ND, 58041-9780
+  DEL LAGO RESORT & CASINO                                1133 STATE ROUTE 414, WATERLOO, NY, 13165-9647
+  FITZ TUNICA CASINO  HOTEL                               711 LUCKY LN, ROBINSONVILLE, MS, 38664-9141
+  GOLD STRIKE CASINO RESORT                               1010 CASINO CENTER DR, ROBINSONVILLE, MS, 38664-9758
+  GOLDEN NUGGET LAS VEGAS                                 129 FREMONT ST, LAS VEGAS, NV, 89101-5603
+  GUN LAKE CASINO                                         1123 129TH AVE, WAYLAND, MI, 49348-9476
+  HARD ROCK CASINO CINCINNATI                             1000 BROADWAY ST, CINCINNATI, OH, 45202-1364
+  HARD ROCK HOTEL AND CASINO BILOXI                       777 BEACH BLVD, BILOXI, MS, 39530-4300
+  HARRAHS AK-CHIN CASINO AND RESORT                       15406 N MARICOPA RD, MARICOPA, AZ, 85139-2819
+  HOLLYWOOD CASINO MORGANTOWN                             6021 MORGANTOWN RD, MORGANTOWN, PA, 19543-9520
+  HORSESHOE INDIANAPOLIS                                  4300 N MICHIGAN RD, SHELBYVILLE, IN, 46176-9751
+  JACKSON RANCHERIA CASINO                                12222 NEW YORK RANCH RD, JACKSON, CA, 95642-9407
+  KO-KWEL CASINO RESORT                                   3201 TREMONT ST, NORTH BEND, OR, 97459-3062
+  LAUBERGE CASINO HOTEL BATON ROUGE                       777 LAUBERGE AVE, BATON ROUGE, LA, 70820-7801
+  MESKWAKI BINGO CASINO HOTEL                             1504 305TH ST, TAMA, IA, 52339-9697
+  MIAMI VALLEY GAMING AND RACING                          6000 W STATE ROUTE 63, LEBANON, OH, 45036-7900
+  MICHAEL J. GAUGHAN, AIRPORT SLOT CONCESSION             5757 WAYNE NEWTON BLVD # 17, LAS VEGAS, NV, 89111-8037
+  MOUNT AIRY CASINO RESORT                                312 WOODLAND RD, MOUNT POCONO, PA, 18344-7172
+  NEW YORK-NEW YORK HOTEL AND CASINO                      3790 LAS VEGAS BLVD S, LAS VEGAS, NV, 89109-4338
+  NGP KLONDIKE LLC                                        444 W SUNSET RD, HENDERSON, NV, 89011-4145
+  OAKLAWN RACING GAMING                                   2705 CENTRAL AVE, HOT SPRINGS, AR, 71901-7515
+  OCEAN CASINO RESORT                                     500 BOARDWALK, ATLANTIC CITY, NJ, 08401-7609
+  ONE FIRE CASINO                                         1901 N WOOD DR, OKMULGEE, OK, 74447-7978
+  PARIS LAS VEGAS                                         3655 LAS VEGAS BLVD S, LAS VEGAS, NV, 89109-4345
+  POTAWATOMI BINGO CASINO                                 1721 W CANAL ST, MILWAUKEE, WI, 53233-2655
+  RAINBOW CLUB CASINO                                     122 S WATER ST, HENDERSON, NV, 89015-7211
+  RIVERS CASINO - PA                                      777 CASINO DR, PITTSBURGH, PA, 15212-5840
+  SANDIA RESORT & CASINO                                  30 RAINBOW RD NE, ALBUQUERQUE, NM, 87113-2156
+  SEVEN FEATHERS HOTEL CASINO                             146 CHIEF MIWALETA LN, CANYONVILLE, OR, 97417-9700
+  TREASURE BAY CASINO RESORT                              1980 BEACH BLVD, BILOXI, MS, 39531-5214
+  WIND CREEK IL, LLC                                      17300 HALSTED ST, EAST HAZEL CREST, IL, 60429
+
+REMOVED (5):
+  Casino Name                                             Address
+  --------------------------------------------------------------------------------------------------------------
+  EL CORTEZ HOTEL & CASINO                                600 FREMONT ST, LAS VEGAS, NV, 89101-5614
+  HARRAHS HOOSIER PARK RACING  CASINO                     4500 DAN PATCH CIR, ANDERSON, IN, 46013-3165
+  HOLLYWOOD CASINO - AURORA                               1 W NEW YORK ST, AURORA, IL, 60506-4120
+  MESKWAKI CASINO - IOWA                                  1504 305TH ST, TAMA, IA, 52339-9697
+  WE-KO-PA CASINO RESORT                                  10438 WEKOPA WAY, FORT MCDOWELL, AZ, 85264-3106
+
+UNCHANGED: 154 locations

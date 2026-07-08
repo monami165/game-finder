@@ -1,0 +1,33 @@
+
+======================================================================
+  Comparison Report: Phoenix Link (GG-320)
+======================================================================
+  Older snapshot : GG320_2026-05-31_20-57-08.json  (2026-05-31T20:57:08.793299)  — 629 locations
+  Newer snapshot : GG320_2026-06-09_22-20-49.json  (2026-06-09T22:20:49.683427)  — 619 locations
+======================================================================
+
+NEW INSTALLATIONS (3):
+  Casino Name                                             Address
+  --------------------------------------------------------------------------------------------------------------
+  GREAT RIVER CASINO RESORT, LLC                          3001 WINEGARD DR, BURLINGTON, IA, 52601-2061
+  MESKWAKI BINGO CASINO HOTEL                             1504 305TH ST, TAMA, IA, 52339-9697
+  RESORTS WORLD CASINO NEW YORK CITY                      110-00 ROCKAWAY BLVD, JAMAICA, NY, 11420-1009
+
+REMOVED (13):
+  Casino Name                                             Address
+  --------------------------------------------------------------------------------------------------------------
+  BALLYS QUAD CITIES CASINO & HOTEL                       777 BALLY BLVD, ROCK ISLAND, IL, 61201-7606
+  BELTERRA PARK GAMING ENT CNTR                           6301 KELLOGG RD, CINCINNATI, OH, 45230-5237
+  BRASS ASS CASINO                                        264 BENNETT DR, CRIPPLE CREEK, CO, 80813-9609
+  CASINO DE CHARLEVOIX                                    183 RICHELIEU ST, LA MALBAIE, QC, G5A 1X8
+  CATFISH BEND RIVERBOAT CASINO                           3001 WINEGARD DR, BURLINGTON, IA, 52601-2061
+  FOUR WINDS DOWAGIAC                                     58700 M 51 S, DOWAGIAC, MI, 49047-9733
+  FOUR WINDS HARTFORD                                     68600 RED ARROW HWY, HARTFORD, MI, 49057-9718
+  GOLD DUST WEST- CARSON CITY                             2171 E WILLIAM ST, CARSON CITY, NV, 89701-2723
+  HARRAHS CASINO HOTEL LAKE TAHOE                         15 HIGHWAY 50, STATELINE, NV, 89449-9818
+  HOLLYWOOD CASINO - AURORA                               1 W NEW YORK ST, AURORA, IL, 60506-4120
+  LIVE! CASINO PITTSBURGH                                 5260 STATE ROUTE 30, GREENSBURG, PA, 15601-6405
+  MESKWAKI CASINO - IOWA                                  1504 305TH ST, TAMA, IA, 52339-9697
+  SHOOTING STAR CASINO                                    777 CASINO RD., MAHNOMEN, MN, 56557
+
+UNCHANGED: 615 locations

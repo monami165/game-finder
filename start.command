@@ -5,7 +5,7 @@ cd "$(dirname "$0")"
 
 # ── Setup (only runs on first launch) ────────────────────────────────────────
 if [ ! -f ".venv/bin/activate" ]; then
-    echo "Setting up for the first time. This may take a few minutes..."
+    echo "Setting up for the first time. This may take a moment..."
     echo
 
     if ! command -v python3 &>/dev/null; then
@@ -25,7 +25,6 @@ if [ ! -f ".venv/bin/activate" ]; then
 
     source .venv/bin/activate
     pip install -r requirements.txt --quiet
-    playwright install chromium
     echo
     echo "Setup complete!"
 else
@@ -41,12 +40,13 @@ while true; do
     echo " ==========================================="
     echo
     echo "  1. Create location list for a game"
-    echo "  2. Compare two snapshots"
-    echo "  3. Exit"
+    echo "  2. Check watchlist (games_list.json)"
+    echo "  3. Compare two snapshots"
+    echo "  4. Exit"
     echo
     echo " ==========================================="
     echo
-    read -p " Select an option (1, 2, or 3): " choice
+    read -p " Select an option (1, 2, 3, or 4): " choice
 
     case "$choice" in
 
@@ -73,8 +73,27 @@ while true; do
         done
         ;;
 
-    # ── Option 2: Compare snapshots ───────────────────────────────────────────
+    # ── Option 2: Check watchlist ─────────────────────────────────────────────
     2)
+        clear
+        echo
+        echo " ==========================================="
+        echo "  Watchlist Check"
+        echo " ==========================================="
+        echo
+        echo " Checking every game in games_list.json..."
+        echo " A snapshot will be saved for each game, and any changes"
+        echo " since the last check will be written to compare/"
+        echo
+        python scraper.py --watchlist
+        echo
+        echo " Tip: edit games_list.json in a text editor to add or remove games."
+        echo
+        read -p "Press Enter to return to the menu..."
+        ;;
+
+    # ── Option 3: Compare snapshots ───────────────────────────────────────────
+    3)
         clear
         echo
         echo " ==========================================="
@@ -83,7 +102,7 @@ while true; do
         echo
 
         if [ ! -d "data" ] || [ -z "$(ls data/*.json 2>/dev/null)" ]; then
-            echo " No snapshots found. Run option 1 first to generate a list."
+            echo " No snapshots found. Run option 1 or 2 first to generate one."
             echo
             read -p "Press Enter to return to the menu..."
             continue
@@ -121,11 +140,13 @@ while true; do
         echo
         python compare.py "$file_a" "$file_b"
         echo
+        echo " Result saved to the compare/ folder."
+        echo
         read -p "Press Enter to return to the menu..."
         ;;
 
-    # ── Option 3: Exit ────────────────────────────────────────────────────────
-    3)
+    # ── Option 4: Exit ────────────────────────────────────────────────────────
+    4)
         echo
         echo " Goodbye!"
         sleep 2
@@ -133,7 +154,7 @@ while true; do
         ;;
 
     *)
-        echo " Invalid option. Please enter 1, 2, or 3."
+        echo " Invalid option. Please enter 1, 2, 3, or 4."
         sleep 2
         ;;
 
